@@ -1,0 +1,154 @@
+
+ @font-face {
+    font-family: Gilory Medium;
+    src: url(./fonts/Gilroy-Medium.ttf);
+}
+
+
+ .navBar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+  
+  .logoContainer, .linksContainer, .iconsContainer {
+    display: flex;
+    align-items: center;
+  }
+
+  .linksConteiner {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .links {
+    text-decoration: none;
+    color: black;
+    font-size: 0.8rem;
+    margin: 0 15px;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .logo {
+    width: 150px;
+  }
+  
+  .iconsContainer {
+    display: flex;
+    padding-left: 10%;
+    
+  }
+  .logoContainer{
+    display: flex;
+    padding-right: 10%;
+  }
+  
+  .icon {
+    margin-left: 10px; 
+    width: 20px; 
+    height: 20px;
+  }
+  
+  .navOpen {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .navOpen .logoContainer {
+    margin-bottom: 20px; 
+  }
+  
+  .navOpen .linksContainer {
+    width: 100%;
+    margin: 20px 0; 
+    text-align: center;
+    justify-content: center;
+  }
+  
+  .navOpen .linksConteiner {
+    flex-direction: column;
+    justify-content: center; 
+  }
+  
+  .navOpen .iconsContainer {
+    width: 100%;
+    justify-content: center;
+  }
+  .productsMenuButton {
+    background: none;
+    border: none;
+    color: black;
+    font-size: 0.8rem;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+    outline: none;
+    align-items: center;
+    padding: 0; 
+    margin: 0 15px; 
+  }
+  
+  .productsMenuButton::after {
+    content: '\25BE'; 
+    margin-left: 0.5em;
+  }
+  
+  .productsMenuOptions {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 0; 
+  }
+  
+  .productsMenuOptions li {
+    margin: 0.5em 0;
+  }
+  
+  .productsMenuOptions li a {
+    text-decoration: none;
+    color: black;
+    font-size: 0.8rem;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  /* Ajuste de alineación vertical */
+  .navBar, .navOpen {
+    align-items: flex-start;
+  }
+  
+  @media (max-width: 800px) {
+   
+      .navOpen .iconsContainer {
+        flex-direction: column;
+        align-items: center;
+        padding-left: 0;
+        justify-content: center;
+    }
+    .navBar{
+      justify-content: space-between;
+    }
+    .logoContainer {
+      padding-left: 10%;
+    }
+
+  
+  }
+
+  @media (max-width: 400px) {
+    .iconsContainer {
+        margin: 0;
+        padding: 0;
+        padding-left: 100px; 
+    }
+    .navOpen .iconsContainer {
+        flex-direction: column;
+        align-items: center;
+        padding-left: 0;
+        justify-content: center;
+    }
+  }
+  

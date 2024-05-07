@@ -1,0 +1,95 @@
+
+.NotaConteiner {
+    display: grid;
+    grid-template-columns: 1fr; 
+    grid-gap: 5px; 
+    padding: 20px;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    background-color: #EDEDED;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+
+.NotaTexConteiner {
+    margin: 20px;
+    text-align: justify;
+    max-width: 100%; /* Limita el ancho máximo del contenedor de texto */
+    overflow: hidden; /* Oculta cualquier desbordamiento */
+}
+
+.NotaTitleConteiner{
+    font-size: 2rem;
+    padding-left: 1rem;
+}
+
+
+.NotaImgConteiner {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    padding-bottom: 15px;
+}
+
+.NotaImgConteiner img {
+    max-width: 100%;
+    height: auto;
+}
+
+@media (max-width: 800px) {
+    .NotaImgConteiner img {
+        max-width: 50%;
+    }
+}
+
+@media (max-width: 400px) {
+    .NotaImgConteiner img {
+        max-width: 40%;
+    }
+}
+
+.NotaTableContainer {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.NotaTableContainer td {
+    border: solid 1px black;
+    text-align: left;
+    padding: 5px;
+}
+
+.NotaTableContainer td {
+    max-width: 150px; /* Puedes ajustar este valor según sea necesario */
+    overflow: hidden;
+    
+}
+
+.HeadTitleTable{
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+
+@media (max-width: 800px) {
+   
+    .NotaConteiner  {
+        padding-left: 3rem;
+        padding-right: 3rem;
+  }
+  .NotaTableContainer{
+    display: none;
+  }
+} 
+
+@media (max-width: 400px) {
+    .NotaConteiner  {
+        padding-left: 3rem;
+        padding-right: 3rem;
+  }
+  .NotaTableContainer{
+    display: none;
+  }
+}
+

@@ -1,0 +1,32 @@
+.featuredProductContainer {
+    padding: 20px;
+    margin: 20px;
+    margin-left: 10%;
+    margin-right: 5%;
+    max-width: 600px; 
+    overflow: hidden; 
+    }
+  
+  .featuredProductText {
+    font-family: 'Poppins', sans-serif; 
+    color: gray;
+    margin-top: 20px;
+  }
+  
+  .featuredProductTitle {
+    font-family: Gilory Bold; 
+    color: black;
+    font-size: 40px;
+  }
+  
+  .featuredProductButton {
+    margin-top: 20px;
+    display: inline-block;
+    padding: 10px 20px; 
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #fd5000;
+    border-radius: 20px;
+    cursor: pointer;
+  }

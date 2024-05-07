@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'Gilory Medium';
+    src: url('./fonts/Gilroy-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'Gilory Bold';
+    src: url('./fonts/Gilroy-Bold.ttf');
+}
+
+
+.containerCards2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.cardHome2 {
+    margin: 20px;
+    width: calc(30% - 40px);
+}
+.cardText2 {
+    font-size: 10px;
+    font-family: 'Gilory Medium';
+    color: gray;
+}
+.cardImgHome2 {
+    width: 285px; 
+    height: 285px;
+}
+.cardTextTitle2 {
+    font-size: 15px;
+    font-family: 'Gilory Bold';
+    color: #fd5000; 
+}
+@media (max-width: 1000px) {
+    .containerCards2 {
+       
+    }
+    
+    .cardImgHome2 {
+        width: 100%; 
+        height: auto; 
+    }
+}
+@media (max-width: 800px) {
+    
+    .cardImgHome2 {
+        width: 100%; 
+        height: auto; 
+    }
+}
+
+@media (max-width: 500px) {
+
+    
+    .cardTextTitle2 {
+        font-size: 5px;
+        font-family: 'Gilory Bold';
+        color: #fd5000; 
+    }
+    
+}
+

@@ -1,0 +1,297 @@
+@font-face {
+    font-family: Gilory Medium;
+    src: url(./fonts/Gilroy-Medium.ttf);
+    font-family: Gilory Bold;
+    src: url(./fonts/Gilroy-Bold.ttf);
+}
+
+
+
+/*Body*/
+
+.conteinerProducts1 {
+    padding-top: 100px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%vh;
+   
+    
+}
+.conteinerProducts2 {
+margin: 5%;
+}
+.borderContainer {
+    position: relative;
+
+}
+  
+
+.conteinerProducts1Imagen {
+    display: flex;
+    width: 60%;
+    height: 100%;
+    margin: 5%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+.conteinerProducts1ImagenText {
+   margin-right: 5%;
+    height: 80%; 
+    margin-top: 5%;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    
+}
+
+/*Body text*/
+.textProducts{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-size: 40px;
+   
+}
+.numberProducts{
+    font-family: Gilory Bold;
+    margin: 20px;
+    color: #ff5000;
+    font-size: 40px;
+}
+.BodyProducts{
+    text-align: start;
+    margin: 20px;
+    
+    font-family: 'Poppins', sans-serif;
+
+    color: gray;
+    font-size: 20px;
+}
+.myButtonProduct {
+    display: inline-block;
+    padding: 10px 20px; 
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #fd5000; 
+    border-radius: 20px; 
+    cursor: pointer;
+    
+}
+.myButtonProduct:hover {
+    background-color: white;
+    color: #fd5000;
+    border: 1px solid #fd5000;
+    
+
+ }
+/*Body Description*/
+.ProductDescription{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 20px;
+
+}
+.ProductVideo{
+    margin: 20px;
+}
+/*Body Review*/
+.conteinerProducts4{
+    background-color: gainsboro;
+    margin: 5%;
+
+}
+.containerReview {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    height: 100%vh;
+}
+
+.textReview{
+   text-align: center;
+   font-family: 'Poppins', sans-serif;
+    color: gray;
+    font-size: 20px;
+    background-color: transparent; 
+   
+}
+.cardReview {
+    padding: 20px; 
+    background-color: transparent;  
+}
+.cardImgReview {
+
+    border-radius: 30px; 
+    overflow: hidden; 
+}
+.card2{
+    padding: 5px; 
+    background-color: transparent;
+}
+.titleReview{
+    background-color: transparent; 
+   
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+   
+}
+
+/*Funcion*/
+.conteinerProducts6{
+    
+    
+    background-color: gainsboro;
+    margin: 5%;
+}
+.cardProducFotter {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center; /* Usar justify-content en lugar de justify-items */
+    margin: 20px;
+    gap: 20px;
+
+}
+.cardBodyFooter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+/*Footer*/
+
+
+
+@media (max-width: 1100px) {
+    /*Body*/
+    .conteinerProducts1 {
+        margin: 0;
+        
+    }
+    .conteinerProducts4{
+    background-color: gainsboro;
+    margin: 5%;
+        
+    
+    }
+    .conteinerProducts3{
+        
+        margin: 5%;
+            
+        
+    }
+    .conteinerProducts6{
+        margin: 5%;
+            
+        
+    }
+    .conteinerProducts2{
+        
+        margin: 0;
+            
+        
+    }
+    .conteinerProducts1Imagen {
+        width: auto;
+        height: auto; 
+        margin: 5%;
+        
+    }
+    
+    .conteinerProducts1ImagenText {
+        width: auto;
+        height: auto;
+        margin-right: 0;
+        margin-top: 5%;
+    
+    }
+
+}
+
+
+@media (max-width: 800px) {
+    /*Body*/
+    .conteinerProducts1 {
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .conteinerProducts1Imagen {
+        width: auto;
+        height: auto;
+        padding: 0;
+    }
+    
+    .conteinerProducts1ImagenText {
+        width: auto;
+        height: auto;
+        padding: 0;
+    
+    }
+    .textProducts{
+        font-family: Gilory Bold;
+        color: black;
+        font-size: 20px;
+       
+    }
+    .numberProducts{
+        font-family: Gilory Bold;
+        margin: 20px;
+        color: #ff5000;
+        font-size: 10px;
+    }
+    .BodyProducts{
+        text-align: center;
+        margin: 20px;
+        font-family: 'Poppins', sans-serif;
+        color: gray;
+        font-size: 10px;
+    }
+    .myButton {
+        display: inline-block;
+        padding: 4px 8px; /* Ajusta el padding según tus necesidades */
+        text-align: center;
+        text-decoration: none;
+        color: white;
+        background-color: #ff5000; /* Color de fondo del botón */
+        border-radius: 10px; /* Bordes redondos */
+        cursor: pointer;
+    }
+    .textReview{
+     font-size: 10px;
+    }
+    .titleReview{
+        background-color: transparent; 
+        font-family: 'Poppins', sans-serif;
+        color: black;
+        font-size: 10px;
+        text-align: center;
+       
+    }
+    /*calculator*/
+
+    .cardProducFotter {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+    }
+    
+
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    text-wrap: nowrap;
+}

@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'Gilory Medium';
+    src: url('./fonts/Gilroy-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'Gilory Bold';
+    src: url('./fonts/Gilroy-Bold.ttf');
+}
+
+.containerCards {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+
+.cardHome {
+    margin: 10px;
+    border: none;
+}
+.cardImgHome {
+    width: 285px; 
+    height: 285px;
+    background-color: #fd5000;
+}
+
+.cardTextHome {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-weight: bold;
+}
+
+
+.cardBodyHome {
+    background-color: #fd5000 ;
+    border: none;
+}
+
+
+
+@media (max-width: 1000px) {
+    .cardImgHome {
+        width: 100%; 
+        height: auto; 
+    } 
+    .cardHome {
+        margin: 10px;
+    }
+    .cardTextHome {
+        font-size: 8px;
+    }
+}
+@media (max-width: 500px) {
+    
+    .cardHome {
+        margin: 5px;
+    }
+    .containerCards {
+        width: 100%;
+    }
+    .cardTextHome {
+        font-size: 5px;
+    }
+}
+
+
+
+.carousel-control-next, .carousel-control-prev{
+    width: 6%!important;
+}
+
+#arrowsSliders{
+    background-color: white!important;
+    border-radius: 6px;
+}
