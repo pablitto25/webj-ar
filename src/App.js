@@ -19,6 +19,7 @@ import LaGuiaDefinitiva from './components/Notas/conocimiento/LaGuiaDefinitiva.j
 import JackeryPresenta from './components/Notas/conocimiento/JackeryPresenta.js';
 import DiaDeLaTierra from './components/Notas/conocimiento/DiaDeLaTierra.js';
 import TecnologiaVerde from './components/Notas/conocimiento/TecnologiaVerde.js';
+import JackeryExplorer240 from './components/Notas/conocimiento/JackeryExplorer240.js';
 
 
 
@@ -47,6 +48,7 @@ function App() {
           <Route path="/Blog/jackery-presenta-el-revolucionario-generador-solar" element={<JackeryPresenta/>} />
           <Route path="/Blog/dia-de-la-tierra" element={<DiaDeLaTierra/>} />
           <Route path="/Blog/tecnologia-verde-tecnologia-jackery" element={<TecnologiaVerde/>} />
+          <Route path="/Blog/jackery-explorer-240-la-mejor-estacion-de-energia-portatil-para-tus-vacaciones" element={<JackeryExplorer240/>} />
           <Route path="/CONTACTO" element={<Contact/>} />
           </Routes>
       </BrowserRouter>
