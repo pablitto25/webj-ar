@@ -33,7 +33,7 @@ const footer = () => {
             </section>
             <section className='footerTex'>
                 <div className='footerTex1'>
-                    <p>Avenida Providencia 1650 Providencia Metropolitana de Santiago</p>
+                    <p>Elias Yofre 1250 Córdoba Argentina</p>
                 </div>
                 <div className='footerTex1'>
                     <p>consultas@jackery.com</p>

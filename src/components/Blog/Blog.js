@@ -10,12 +10,16 @@ import Footer from '../Footer/Footer';
 import Cards6 from '../sliders/cards6';
 import Cards7 from '../sliders/cards7';
 import Cards8 from '../sliders/cards8';
+import { Helmet } from 'react-helmet';
 
 const Blog = () => {
   const [selectedCategory, setSelectedCategory] = useState('TODOS'); // Estado para la categoría seleccionada
 
   return (
     <div className='conteiner'>
+      <Helmet>
+        <title>Blogs</title>
+      </Helmet>
       <div className='bannerConteiner'>
         <Banner6 />
       </div>

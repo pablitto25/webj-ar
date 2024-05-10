@@ -19,7 +19,7 @@ const PRODUCTOS5 = () => {
   
  <div className='conteiner'>
   <Helmet>
-        <title>Todo lo que puedes alimentar con tu Explorer 240</title>
+        <title>Jackery Generador Solar 1000 - 2 paneles</title>
       </Helmet>
   <div className='conteinerProducts1'>
     <div className='conteinerProducts1Imagen'>
