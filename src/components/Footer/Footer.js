@@ -36,7 +36,7 @@ const footer = () => {
                     <p>Elias Yofre 1250 Córdoba Argentina</p>
                 </div>
                 <div className='footerTex1'>
-                    <p>consultas@jackery.com</p>
+                    <p>consultas@jackery.com.ar</p>
                 </div>
             </section>
             <img src={Logo2} alt='Logo' className='LogoFooter' />
