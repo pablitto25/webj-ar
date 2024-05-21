@@ -20,6 +20,9 @@ import JackeryPresenta from './components/Notas/conocimiento/JackeryPresenta.js'
 import DiaDeLaTierra from './components/Notas/conocimiento/DiaDeLaTierra.js';
 import TecnologiaVerde from './components/Notas/conocimiento/TecnologiaVerde.js';
 import JackeryExplorer240 from './components/Notas/conocimiento/JackeryExplorer240.js';
+import JackerySolarSaga100 from './components/Notas/conocimiento/JackerySolarSaga100.js';
+import JackeryLaSolucionMultifuncional from './components/Notas/conocimiento/JackeryLaSolucionMultifuncional.js';
+import JackerGeneradorSolar240 from './components/Notas/conocimiento/JackerGeneradorSolar240.js';
 
 
 
@@ -49,6 +52,9 @@ function App() {
           <Route path="/Blog/dia-de-la-tierra" element={<DiaDeLaTierra/>} />
           <Route path="/Blog/tecnologia-verde-tecnologia-jackery" element={<TecnologiaVerde/>} />
           <Route path="/Blog/jackery-explorer-240-la-mejor-estacion-de-energia-portatil-para-tus-vacaciones" element={<JackeryExplorer240/>} />
+          <Route path="/Blog/panel-jackery-solarsaga-100w-5-beneficios-de-implementarlo-en-tu-vida" element={<JackerySolarSaga100/>} />
+          <Route path="/Blog/jackery-la-solucion-multifuncional" element={<JackeryLaSolucionMultifuncional/>} />
+          <Route path="/Blog/jackery-generador-solar-240-produce-tu-propia-energia-al-aire-libre" element={<JackerGeneradorSolar240/>} />
           <Route path="/CONTACTO" element={<Contact/>} />
           </Routes>
       </BrowserRouter>

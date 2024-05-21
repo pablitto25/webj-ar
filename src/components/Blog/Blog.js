@@ -11,6 +11,9 @@ import Cards6 from '../sliders/cards6';
 import Cards7 from '../sliders/cards7';
 import Cards8 from '../sliders/cards8';
 import { Helmet } from 'react-helmet';
+import Cards9 from '../sliders/cards9';
+import Cards10 from '../sliders/cards10';
+import Cards11 from '../sliders/cards11';
 
 const Blog = () => {
   const [selectedCategory, setSelectedCategory] = useState('TODOS'); // Estado para la categoría seleccionada
@@ -36,6 +39,21 @@ const Blog = () => {
         <section className='conteinerCards'>
           {selectedCategory === 'TODOS' && (
             <>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">Jackery generador solar 240: produce tu propia energía al aire libre</p>
+                <Cards11 />
+                <a href="/Blog/jackery-generador-solar-240-produce-tu-propia-energia-al-aire-libre" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">Jackery, la solución multifuncional</p>
+                <Cards10 />
+                <a href="/Blog/jackery-la-solucion-multifuncional" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">Panel Jackery Solarsaga 100w: 5 beneficios de implementarlo en tu vida</p>
+                <Cards9 />
+                <a href="/Blog/panel-jackery-solarsaga-100w-5-beneficios-de-implementarlo-en-tu-vida" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
               <div id="novedades" className="cardSlider container mb-3">
                 <p className="texSlider">Jackery Explorer 240: la mejor estación de energía portátil para tus vacaciones</p>
                 <Cards8 />
@@ -82,6 +100,16 @@ const Blog = () => {
 
           {selectedCategory === 'CONSEJOS DE COMPRA' && (
             <div>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">Jackery generador solar 240: produce tu propia energía al aire libre</p>
+                <Cards11 />
+                <a href="/Blog/jackery-generador-solar-240-produce-tu-propia-energia-al-aire-libre" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">Panel Jackery Solarsaga 100w: 5 beneficios de implementarlo en tu vida</p>
+                <Cards9 />
+                <a href="/Blog/panel-jackery-solarsaga-100w-5-beneficios-de-implementarlo-en-tu-vida" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
               <div id="consejosDeCompra" className="cardSlider container mb-3">
                 <p className="texSlider">CONSEJOS DE COMPRA</p>
                 <Cards />
@@ -112,10 +140,17 @@ const Blog = () => {
           )}
 
           {selectedCategory === 'CONOCIMIENTO' && (
-            <div id="conocimiento" className="cardSlider container mb-3">
-              <p className="texSlider">CONOCIMIENTO</p>
-              <Cards4 />
-              <a href="/Blog/la-guia-definitiva-de-tipos-de-paneles-solares" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+            <div>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">Jackery, la solución multifuncional</p>
+                <Cards10 />
+                <a href="/Blog/jackery-la-solucion-multifuncional" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
+              <div id="conocimiento" className="cardSlider container mb-3">
+                <p className="texSlider">CONOCIMIENTO</p>
+                <Cards4 />
+                <a href="/Blog/la-guia-definitiva-de-tipos-de-paneles-solares" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
             </div>
           )}
 

@@ -58,9 +58,9 @@
   flex-direction: column;
 }
 
-.div3 {
+/* .div3 {
   width: 20vh;
-}
+} */
 
 .banner-image {
   width: 100%;
@@ -112,7 +112,7 @@
 @media (min-width: 1001px) {
   .BannerTex {
     width: 90%;
-    margin-left: 10vh;
+    margin-left: 6vh;
     margin-right: 15vh;
 
   }
