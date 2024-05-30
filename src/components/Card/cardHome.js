@@ -30,6 +30,28 @@ const CardHome = () => {
                 </div>
               </div>
               <div className='card cardHome border-0'>
+                <a href='PRODUCTOS/Jackery%20Explorer%20500'><img src={imagen2} className="card-img-top img-fluid cardImgHome" alt="..." /></a>
+                <div className="card-body cardBodyHome">
+                  <p className="card-text cardTextHome">Explorer 500</p>
+                </div>
+              </div>
+              <div className='card cardHome border-0'>
+                <a href='/PRODUCTOS/Jackery%20Explorer%201000'><img src={imagen1} className="card-img-top img-fluid cardImgHome" alt="..." /></a>
+                <div className="card-body cardBodyHome">
+                  <p className="card-text cardTextHome">Explorer 1000</p>
+                </div>
+              </div>
+              <div className='card cardHome border-0'>
+                <a href='/PRODUCTOS/Jackery%20SolarSaga%20100'><img src={imagen4} className="card-img-top img-fluid cardImgHome" alt="..." /></a>
+                <div className="card-body cardBodyHome">
+                  <p className="card-text cardTextHome">Solarsaga 100</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="carousel-item  border-0">
+            <div className=" w-100 containerCards">
+            <div className='card cardHome border-0'>
                 <a href='/PRODUCTOS/Jackery Generador Solar 240'><img src={imagen6}
                   className="card-img-top img-fluid cardImgHome" alt="..." /></a>
                 <div className="card-body cardBodyHome">
@@ -48,32 +70,10 @@ const CardHome = () => {
                   <p className="card-text cardTextHome">Generador solar 1000</p>
                 </div>
               </div>
-            </div>
-          </div>
-          <div className="carousel-item  border-0">
-            <div className=" w-100 containerCards">
               <div className='card cardHome border-0'>
                 <a href='/PRODUCTOS/Jackery Generador Solar 1000 - 2 paneles'><img src={imagen8} className="card-img-top img-fluid cardImgHome" alt="..." /></a>
                 <div className="card-body cardBodyHome">
                   <p className="card-text cardTextHome">Generador solar 1000 2</p>
-                </div>
-              </div>
-              <div className='card cardHome border-0'>
-                <a href='PRODUCTOS/Jackery%20Explorer%20500'><img src={imagen2} className="card-img-top img-fluid cardImgHome" alt="..." /></a>
-                <div className="card-body cardBodyHome">
-                  <p className="card-text cardTextHome">Explorer 500</p>
-                </div>
-              </div>
-              <div className='card cardHome border-0'>
-                <a href='/PRODUCTOS/Jackery%20Explorer%201000'><img src={imagen1} className="card-img-top img-fluid cardImgHome" alt="..." /></a>
-                <div className="card-body cardBodyHome">
-                  <p className="card-text cardTextHome">Explorer 1000</p>
-                </div>
-              </div>
-              <div className='card cardHome border-0'>
-                <a href='/PRODUCTOS/Jackery%20SolarSaga%20100'><img src={imagen4} className="card-img-top img-fluid cardImgHome" alt="..." /></a>
-                <div className="card-body cardBodyHome">
-                  <p className="card-text cardTextHome">Solarsaga 100</p>
                 </div>
               </div>
             </div>

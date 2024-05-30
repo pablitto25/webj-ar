@@ -8,6 +8,11 @@
     src: url('./fonts/Gilroy-Bold.ttf');
 }
 
+.iconFooter{
+    margin-left: 10px;
+    width: 30px;
+    height: 30px;
+}
 
 
 .conteinerFooter {

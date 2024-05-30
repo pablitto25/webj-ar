@@ -49,6 +49,11 @@ margin: 5%;
     
 }
 
+.specifications{
+    text-align: left;
+    
+}
+
 /*Body text*/
 .textProducts{
     font-family: 'Poppins', sans-serif;
@@ -65,9 +70,7 @@ margin: 5%;
 .BodyProducts{
     text-align: start;
     margin: 20px;
-    
     font-family: 'Poppins', sans-serif;
-
     color: gray;
     font-size: 20px;
 }

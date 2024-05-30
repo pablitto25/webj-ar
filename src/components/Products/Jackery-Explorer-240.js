@@ -27,8 +27,23 @@ const PRODUCTOS = () => {
           <CardProduct />
         </div>
         <div className='conteinerProducts1ImagenText'>
-          <h1 className='textProducts'>Jackery Explorer 240 - Estación de energía portátil</h1>
+          <h1 className='textProducts'>Jackery Explorer 240</h1>
           <h2 className='numberProducts'> $728.999</h2>
+          {/* <p className='BodyProducts'>La Jackery Explorer 240 es la fuente de suministro de energía ideal para tus aventuras al aire libre. Su diseño portátil y sus características de seguridad avanzada la convierten en la estación más elegida por los campistas.</p>
+          <ul className='specifications'>
+            <li>Capacidad: 16.8Ah / 14.4 V (241.9Wh)</li>
+            <li>Peso: 3Kg</li>
+            <li>Dimesiones: 23 x 14 x 20cm</li>
+            <li>DC Entrada: 19V=3,42 A (soporta 12-30V)</li>
+            <li>AC Salida: 230V - 50Hz, 0.87A, 200W Max Continua, 400W pico de sobretension</li>
+            <li>Puerto automovil: 12V = 10A</li>
+            <li>Salida USB 2 x usb-a Salida 5V = 2.4A</li>
+            <li>Batería: Ion Litio</li>
+            <li>Ciclos: {'>'} 800</li>
+            <li>Temperatura de funcionamiento: -20 / 40°C</li>
+            <li>Temperatura de recarga: 0 / 40°C</li>
+            <li>MPPT: Soporte de carga mppt de panel solar</li>
+          </ul> */}
           <p className='BodyProducts'>Batería de litio de 240 Wh (16,8 Ah)</p>
           <p className='BodyProducts'>200 W de salida (400 W de sobrecarga)</p>
           <p className='BodyProducts'>Carga al 100% tu equipo en 5 horas y media</p>

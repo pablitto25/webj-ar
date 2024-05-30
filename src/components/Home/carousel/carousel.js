@@ -29,7 +29,7 @@ const carousel1 = () => {
         <div className="carousel-item ">
           <img src={imagen2} className="d-block img-fluid w-100 imgHome1" alt="..." style={{ width: '1920px', height: '798px' }} />
           <div className="carousel-caption d-none d-md-block carousel-text ">
-            <p className='carouselText'> Anímate a crear tu estilo de vida en armonía con el entorno</p>
+            <p className='carouselText'> Animate a crear tu estilo de vida en armonía con el entorno</p>
             <a href="/Blog/mejores-cargadores-solares-para-excursiones" className="myButton " target="_parent" rel="noopener noreferrer">
               EXPLORAR MÁS
             </a>

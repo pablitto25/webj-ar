@@ -16,7 +16,7 @@ const footer = () => {
     const links = [
         { id: 1, text: 'Home', route: '/' },
         { id: 2, text: 'Blog', route: '/Blog' },
-        { id: 3, text: 'Contactenos', route: '/CONTACTO' },
+        { id: 3, text: 'Contactanos', route: '/CONTACTO' },
     ];
 
     return (
@@ -33,7 +33,7 @@ const footer = () => {
             </section>
             <section className='footerTex'>
                 <div className='footerTex1'>
-                    <p>Elias Yofre 1250 Córdoba Argentina</p>
+                    <p>Elias Yofre 1250, Córdoba, Argentina.</p>
                 </div>
                 <div className='footerTex1'>
                     <p>consultas@jackery.com.ar</p>
@@ -44,7 +44,7 @@ const footer = () => {
                 <div className='footerLinks'>
                     {icons.map((x) => (
                         <Link key={x.id} to={x.link} target='_blank' className="iconLink">
-                            <img src={x.icon} alt={`Icon ${x.id}`} className="icon" />
+                            <img src={x.icon} alt={`Icon ${x.id}`} className="iconFooter" />
                         </Link>
                     ))}
                 </div>
