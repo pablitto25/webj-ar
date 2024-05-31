@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './Blog.css';
-import Banner6 from '../Banner/banner6';
+import Banner12 from '../Banner/banner12';
 import Cards from '../sliders/cards';
 import Cards2 from '../sliders/cards2';
 import Cards3 from '../sliders/cards3';
@@ -25,7 +25,7 @@ const Blog = () => {
         <title>Blogs</title>
       </Helmet>
       <div className='bannerConteiner'>
-        <Banner6 />
+        <Banner12 />
       </div>
       <div className='conteinerBlog'>
         <div className="menuSlider">
