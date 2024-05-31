@@ -23,7 +23,7 @@ const Banner6 = () => {
         </div>
         <div className="stripe-1"></div>
       </div>
-      <div className="half-width">
+      <div className="half-width-second">
         <img src={banner} alt="Banner" className="banner-image fluid-img"  />
       </div>
       <div className="div3">

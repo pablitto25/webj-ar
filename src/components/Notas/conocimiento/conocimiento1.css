@@ -24,6 +24,10 @@
     padding-left: 1rem;
 }
 
+.image-feature{
+    width: 30%;
+}
+
 
 .NotaImgConteiner {
     display: flex;

@@ -58,6 +58,12 @@
   flex-direction: column;
 }
 
+.half-width-second{
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+}
+
 /* .div3 {
   width: 20vh;
 } */
@@ -141,6 +147,9 @@
 
 @media (max-width: 850px) {
   .half-width {
+    display: none;
+  }
+  .half-width-second {
     display: none;
   }
 
