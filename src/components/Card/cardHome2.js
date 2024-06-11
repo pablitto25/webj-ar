@@ -20,21 +20,21 @@ const cardhome2 = () => {
               <div className="card border-0 cardHome2" >
                 <a href='/PRODUCTOS/Jackery%20Generador%20Solar%20240'><img src={imagen2} className="card-img-top cardImgHome2" alt="..." /></a>
                 <div className="card-body">
-                  <p className="card-text cardText2">Combo</p>
+                  {/* <p className="card-text cardText2">Combo</p> */}
                   <p className="card-text cardTextTitle2">Generador solar 240</p>
                 </div>
               </div>
               <div className="card border-0 cardHome2" >
                 <a href='/PRODUCTOS/Jackery%20Generador%20Solar%20500'><img src={imagen1} className="card-img-top cardImgHome2" alt="..." /></a>
                 <div className="card-body">
-                  <p className="card-text cardText2">Combo</p>
+                  {/* <p className="card-text cardText2">Combo</p> */}
                   <p className="card-text cardTextTitle2">Generador solar 500</p>
                 </div>
               </div>
               <div className="card border-0 cardHome2" >
                 <a href='/PRODUCTOS/Jackery%20Generador%20Solar%201000'><img src={imagen3} className="card-img-top cardImgHome2" alt="..." /></a>
                 <div className="card-body">
-                  <p className="card-text cardText2">Combo</p>
+                  {/* <p className="card-text cardText2">Combo</p> */}
                   <p className="card-text cardTextTitle2">Generador solar 1000</p>
                 </div>
               </div>
@@ -43,16 +43,16 @@ const cardhome2 = () => {
           <div className="carousel-item ">
             <div className='containerCards2'>
               <div className="card border-0 cardHome2" >
-                <img src={imagen4} className="card-img-top cardImgHome2" alt="..." />
+              <a href='PRODUCTOS/Jackery SolarSaga 100'><img src={imagen4} className="card-img-top cardImgHome2" alt="..." /></a>
                 <div className="card-body">
-                  <p className="card-text cardText2 ">Panel solar</p>
+                  {/* <p className="card-text cardText2 ">Panel solar</p> */}
                   <p className="card-text cardTextTitle2">Solarsaga 100</p>
                 </div>
               </div>
               <div className="card border-0 cardHome2">
                 <a href='/PRODUCTOS/Jackery Generador Solar 1000'><img src={imagen5} className="card-img-top cardImgHome2" alt="..." /></a>
                 <div className="card-body">
-                  <p className="card-text cardText2">Combo</p>
+                  {/* <p className="card-text cardText2">Combo</p> */}
                   <p className="card-text cardTextTitle2">Generador solar 1000 2</p>
                 </div>
               </div>
