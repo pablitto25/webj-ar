@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './Blog.css';
-import Banner6 from '../Banner/banner6';
+import Banner12 from '../Banner/banner12';
 import Cards from '../sliders/cards';
 import Cards2 from '../sliders/cards2';
 import Cards3 from '../sliders/cards3';
@@ -14,6 +14,7 @@ import { Helmet } from 'react-helmet';
 import Cards9 from '../sliders/cards9';
 import Cards10 from '../sliders/cards10';
 import Cards11 from '../sliders/cards11';
+import Cards12 from '../sliders/cards12';
 
 const Blog = () => {
   const [selectedCategory, setSelectedCategory] = useState('TODOS'); // Estado para la categoría seleccionada
@@ -24,7 +25,7 @@ const Blog = () => {
         <title>Blogs</title>
       </Helmet>
       <div className='bannerConteiner'>
-        <Banner6 />
+        <Banner12 />
       </div>
       <div className='conteinerBlog'>
         <div className="menuSlider">
@@ -39,6 +40,11 @@ const Blog = () => {
         <section className='conteinerCards'>
           {selectedCategory === 'TODOS' && (
             <>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">Expo San Juan minera 2024: Jackery estuvo presente</p>
+                <Cards12 />
+                <a href="/Blog/expo-san-juan-minera-2024-jackery-estuvo-presente" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
               <div id="novedades" className="cardSlider container mb-3">
                 <p className="texSlider">Jackery generador solar 240: produce tu propia energía al aire libre</p>
                 <Cards11 />
@@ -156,6 +162,11 @@ const Blog = () => {
 
           {selectedCategory === 'NOVEDADES' && (
             <div>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">Expo San Juan minera 2024: Jackery estuvo presente</p>
+                <Cards12 />
+                <a href="/Blog/expo-san-juan-minera-2024-jackery-estuvo-presente" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
               <div id="novedades" className="cardSlider container mb-3">
                 <p className="texSlider">NOVEDADES</p>
                 <Cards5 />
