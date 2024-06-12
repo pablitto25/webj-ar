@@ -24,7 +24,7 @@ const JackeryLaSolucionMultifuncional = () => {
                     </p>
                     <p>
                         <strong>Actividades outdoor</strong><br />
-                        ¿Cuántas veces las personas que realizan trekking, hacen camping o, simplemente, desean hacer un picnic con amigos no pudieron realizarlo de manera prolongada ya que no tenían la suficiente energía para ello? Pues, solucionamos dicha necesidad: sus generadores, estaciones de energía y paneles solares pueden alimentar diferentes tipos de dispositivos al mismo tiempo. ¡Encima son livianos y portátiles! Realmente, son perfectos para llevarlos a la montaña, el bosque o la playa.
+                        ¿Cuántas veces las personas que realizan trekking, hacen camping o, simplemente, desean hacer un picnic con amigos no pudieron realizarlo de manera prolongada ya que no tenían la suficiente energía para ello? Pues, solucionamos dicha necesidad: nuestros generadores, estaciones de energía y paneles solares pueden alimentar diferentes tipos de dispositivos al mismo tiempo. ¡Encima son livianos y portátiles! Realmente, son perfectos para llevarlos a la montaña, el bosque o la playa.
                     </p>
 
                     <div className='NotaImgConteiner'>
@@ -48,12 +48,12 @@ const JackeryLaSolucionMultifuncional = () => {
 
                     <p>
                         <strong>Situaciones de emergencia</strong><br />
-                        Nuestros productos son ideales para aquellas ocasiones en donde se corta la luz por condiciones climáticas adversas. Muchos sitios de Chile sufren cortes de energía frecuentes, lo que puede implicar un verdadero inconveniente para las personas que necesitan continuar con sus actividades domésticas, estudiar o hacer home office. Para ahorrarse un malestar, es mejor estar preparado en dichos casos. Por eso, te recomendamos que visites el <Link to="/PRODUCTOS/Jackery%20SolarSaga%20100" target='_blank'><span style={{ color: '#FF5000' }}>Jackery Explorer 240</span></Link>  y decidas cuál es el mejor para ti.
+                        Nuestros productos son ideales para aquellas ocasiones en donde se corta la luz por condiciones climáticas adversas. Muchos sitios de Argentina sufren cortes de energía frecuentes, lo que puede implicar un verdadero inconveniente para las personas que necesitan continuar con sus actividades domésticas, estudiar o hacer home office. Para ahorrarse un malestar, es mejor estar preparado en dichos casos. Por eso, te recomendamos que visités el <Link to="/PRODUCTOS/Jackery%20SolarSaga%20100" target='_blank'><span style={{ color: '#FF5000' }}>Jackery Explorer 240</span></Link>  y decidás cuál es el mejor para ti.
                     </p>
 
                     <p>
                         <strong>Problemas de salud</strong><br />
-                        Nuestra marca contribuye al cuidado de pacientes críticos. Existen personas con enfermedades crónicas que requieren asistencia constante de determinados dispositivos, los cuales deben funcionar en todo contexto, incluso si la energía eléctrica fue cortada. Por lo tanto, te aconsejamos adquirir nuestros productos para que así te quedes tranquilo de que dichos sujetos recibirán un adecuado suministro.
+                        Nuestra marca contribuye al cuidado de pacientes críticos. Existen personas con enfermedades crónicas que requieren asistencia constante de determinados dispositivos, los cuales deben funcionar en todo contexto, incluso si la energía eléctrica fue cortada. Por lo tanto, te aconsejamos adquirir nuestros productos para que así te quedés tranquilo de que dichos sujetos recibirán un adecuado suministro.
 
                     </p>
 

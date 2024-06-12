@@ -11,7 +11,7 @@ const Banner9 = () => {
         <div className="stripe-8">
          <div className='BannerTex'>
                 <h1 className='BannerTexTitle'>Panel Jackery Solarsaga 100w: 5 beneficios de implementarlo en tu vida</h1>
-                <h2 className='BannerTexSubTitle'>Sumate a la energía limpia que ofrecemos. Entra a la nota y conoce las ventajas de tener un panel solar en tu casa.</h2>
+                <h2 className='BannerTexSubTitle'>Sumate a la energía limpia que ofrecemos. Entrá a la nota y conocé las ventajas de tener un panel solar en tu casa.</h2>
             </div>
         </div>
         <div className="stripe-1"></div>

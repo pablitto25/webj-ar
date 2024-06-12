@@ -376,7 +376,7 @@ const LaGuiaDefinitiva = () => {
             Paneles solares bifaciales
           </p>
           <p>
-            Como su nombre indica, las células solares bifaciales pueden absorber luz en ambos lados y convertirla en energía. La parte posterior del panel absorbe la luz que se refleja desde el suelo. Se puede considerar la colocación de un espejo detrás de estos paneles para obtener una producción máxima de electricidad.
+            Como su nombre indica, las células solares bifaciales pueden absorber luz en ambos lados y convertirla en energía. La parte posterior del panel absorbe la luz que se refleja desde el suelo. Podemos considerar la colocación de un espejo detrás de estos paneles para obtener una producción máxima de electricidad.
           </p>
           <p>
             Los estudios revelan que los modelos bifaciales pueden producir entre un 10% y un 20% más de energía que los paneles tradicionales o monocristalinos. No obstante, la eficiencia tiene un costo: tendrás que pagar casi un 15% más que los paneles solares monocristalinos por una mayor eficiencia y potencia.
@@ -394,7 +394,7 @@ const LaGuiaDefinitiva = () => {
             Las tejas solares funcionan con el mismo concepto: ayudan a convertir la luz solar en electricidad. La estética atractiva es la única razón por la que la gente elige tejas solares en lugar de paneles solares.
           </p>
           <p>
-            Pero antes de invertir en tejas solares, ten en cuenta que pueden costarte el doble que los paneles solares. Además, son menos eficientes a la hora de convertir la luz solar en electricidad.
+            Pero antes de invertir en tejas solares, tené en cuenta que pueden costarte el doble que los paneles solares. Además, son menos eficientes a la hora de convertir la luz solar en electricidad.
           </p>
         </div>
         <div className='NotaTitleConteiner'>
@@ -450,7 +450,7 @@ const LaGuiaDefinitiva = () => {
             Tipos de paneles solares por aspecto
           </p>
           <p>
-            A continuación se desglosan las diferencias de aspecto entre los distintos tipos de paneles solares.
+            A continuación se desglosaremos las diferencias de aspecto entre los distintos tipos de paneles solares.
           </p>
           <ul>
             <li>
@@ -473,13 +473,13 @@ const LaGuiaDefinitiva = () => {
             Si estás listo para ir al solar, la comprensión de los costos asociados con la compra de paneles solares es fundamental.
           </p>
           <p>
-            Los paneles monocristalinos tienen un precio elevado debido al complejo proceso de fabricación que consiste en combinar el cristal de silicio de mayor calidad. Pueden costar entre 884,96 y 1769,92 pesos chilenos por vatio.
+            Los paneles monocristalinos tienen un precio elevado debido al complejo proceso de fabricación que consiste en combinar el cristal de silicio de mayor calidad.
           </p>
           <p>
-            A diferencia de los monocristalinos, los policristalinos no utilizan un único cristal de silicio puro. En su lugar, utiliza restos de fragmentos de cristal que abaratan el coste de producción. Tendrás que pagar entre 619,47 y 884,96 pesos chilenos por vatio por los paneles policristalinos.
+            A diferencia de los monocristalinos, los policristalinos no utilizan un único cristal de silicio puro. En su lugar, utiliza restos de fragmentos de cristal que abaratan el coste de producción.
           </p>
           <p>
-            Entre todos los paneles solares de capa fina, el CIGS es el más caro, seguido del CdTe y el a-Si. La naturaleza ligera y flexible de los paneles solares reduce los costos de mano de obra. Para obtener células de capa fina, hay que pagar entre 380,53 y 61947,20 pesos chilenos por vatio.
+            Entre todos los paneles solares de capa fina, el CIGS es el más caro, seguido del CdTe y el a-Si. La naturaleza ligera y flexible de los paneles solares reduce los costos de mano de obra.
           </p>
           <p>
             Por PERC, los propietarios deben pagar alrededor de 302,13 - 660,92 pesos chilenos por vatio.
@@ -501,7 +501,7 @@ const LaGuiaDefinitiva = () => {
             Índice de granizo
           </p>
           <p>
-            Si la zona donde vives es propensa al granizo o a la nieve, es mejor buscar un panel solar que pueda soportar el impacto del granizo sin sufrir daños. Los paneles monocristalinos y policristalinos se fabrican con materiales gruesos. Por lo tanto, son una opción fiable para los propietarios de viviendas que viven en zonas propensas al granizo.
+            Si la zona donde vivís es propensa al granizo o a la nieve, es mejor buscar un panel solar que pueda soportar el impacto del granizo sin sufrir daños. Los paneles monocristalinos y policristalinos se fabrican con materiales gruesos. Por lo tanto, son una opción fiable para los propietarios de viviendas que viven en zonas propensas al granizo.
           </p>
           <p style={{ fontWeight: '700', paddingLeft: '2rem' }}>
             Degradación inducida por la luz (LID)
@@ -523,10 +523,10 @@ const LaGuiaDefinitiva = () => {
         </div>
         <div className='NotaTexConteiner'>
           <p>
-            Elegir los paneles solares adecuados con un montón de opciones disponibles puede ser un reto. ¡Pero ya no más! Jackery te trae la mejor solución para aprovechar la energía del sol y cargar todos tus aparatos eléctricos.
+            Elegir los paneles solares adecuados con un montón de opciones disponibles puede ser un desafío. ¡Pero ya no más! Te traemos la mejor solución para aprovechar la energía del sol y cargar todos tus aparatos eléctricos.
           </p>
           <p>
-            Los paneles solares portátiles Jackery SolarSaga son fáciles de transportar y tienen la mayor eficiencia del 25%. Para maximizar la producción de electricidad, puedes combinarlo con las centrales eléctricas móviles recargables Jackery.
+            Los paneles solares portátiles Jackery SolarSaga son fáciles de transportar y tienen la mayor eficiencia del 25%. Para maximizar la producción de electricidad, puedes combinarlo con las centrales eléctricas móviles recargables de nuestra marca
           </p>
         </div>
         <div className='NotaImgConteiner'>
@@ -567,7 +567,7 @@ const LaGuiaDefinitiva = () => {
             ¿Cuánto duran los paneles solares monocristalinos Jackery?
           </p>
           <p>
-            Los paneles solares monocristalinos Jackery pueden durar mucho tiempo si están bien mantenidos. La solución solar de mayor calidad puede durar más de 25 años si se combina con centrales solares explorer.
+            Nuestros paneles solares monocristalinos pueden durar mucho tiempo si están bien mantenidos. La solución solar de mayor calidad puede durar más de 25 años si se combina con centrales solares explorer.
           </p>
           <p style={{ fontWeight: '700', fontSize: '1.2rem', paddingLeft: '2rem' }}>
             ¿Cuál es el tipo de panel solar más eficiente?
@@ -585,7 +585,7 @@ const LaGuiaDefinitiva = () => {
             ¿Cómo aprovechar al máximo los paneles solares Jackery?
           </p>
           <p>
-            Los paneles solares Jackery utilizan células solares de silicio monocristalino, que proporcionan una mayor tasa de conversión del 24,3%. Considera la posibilidad de acoplar el <span style={{ color: '#F28F2E' }}>panel solar Jackery</span> con un generador solar para mejorar la capacidad de generación de energía.
+            Nuestros paneles utilizan células solares de silicio monocristalino, que proporcionan una mayor tasa de conversión del 24,3%. Considerá la posibilidad de acoplar el <span style={{ color: '#F28F2E' }}>nuestro panel solar</span> con un generador solar para mejorar la capacidad de generación de energía.
           </p>
           <ul>
             <li>
@@ -603,10 +603,10 @@ const LaGuiaDefinitiva = () => {
         </div>
         <div className='NotaTexConteiner'>
           <p>
-            Considera invertir en los <span style={{color: '#F28F2E'}}>paneles solares Jackery SolarSaga</span>. Son altamente eficientes y superan a otros paneles solares disponibles en el mercado.
+            Considerá invertir en los <span style={{ color: '#F28F2E' }}>paneles solares Jackery SolarSaga</span>. Son altamente eficientes y superan a otros paneles solares disponibles en el mercado.
           </p>
           <p>
-          Entonces, ¿qué estás esperando? Conviértete a la energía solar con la combinación de paneles solares de la más alta calidad y una estación de energía portátil.
+            Entonces, ¿qué estás esperando? Convertite a la energía solar con la combinación de paneles solares de la más alta calidad y una estación de energía portátil.
           </p>
         </div>
 

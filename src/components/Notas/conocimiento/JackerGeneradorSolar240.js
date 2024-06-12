@@ -44,10 +44,10 @@ const JackerGeneradorSolar240 = () => {
                     </p>
                     <p>
                         <strong>¿Para qué lo puedo usar?</strong><br />
-                        Puedes llevarlo a tus diferentes actividades outdoor: excursiones, campamentos, salidas a la montaña o a donde sea. Su diseño súper transportable te permite llevarlo a cualquier sitio y asegurarte que tus dispositivos grandes y pequeños estén cargados.También, puedes usarlo en casos de emergencia, eventos sociales o si necesitas trabajar de manera remota.
+                        Podés llevarlo a tus diferentes actividades outdoor: excursiones, campamentos, salidas a la montaña o a donde sea. Su diseño súper transportable te permite llevarlo a cualquier sitio y asegurarte que tus dispositivos grandes y pequeños estén cargados.También, podés usarlo en casos de emergencia, eventos sociales o si necesitas trabajar de manera remota.
                     </p>
                     <p>
-                        En conclusión, <strong>el generador solar Jackery 240</strong> es una excelente alternativa para alimentar a tus dispositivos en cualquier momento y espacio. ¿Qué esperas para adquirirlo?
+                        En conclusión, <strong>el generador solar Jackery 240</strong> es una excelente alternativa para alimentar a tus dispositivos en cualquier momento y espacio. ¿Qué esperás para adquirirlo?
                     </p>
                     {/* fin de la nota */}
                     

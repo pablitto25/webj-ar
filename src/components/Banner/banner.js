@@ -14,7 +14,7 @@ const Banner = () => {
                 <h2 className='BannerTexSubTitle'>¿puede el generador</h2>
                 <h2 className='BannerTexSubTitle'>solar alimentarlo?</h2>
                 <p className='BannerTexBody'>
-                ¿Quieres saber qué generador solar te conviene comprar para tu teclado solar? No te pierdas nuestra recomendación de compra
+                ¿Querés saber qué generador solar te conviene comprar para tu teclado solar? No te pierdas nuestra recomendación de compra
                 </p>
                 <a href="/BLOG/TecladoSolar" className="buttonBanner mb-3" rel="noopener noreferrer">
         EXPLORAR MÁS

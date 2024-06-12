@@ -33,7 +33,7 @@ const Blog = () => {
           <p className="menuSliderTex" onClick={() => setSelectedCategory('CONSEJOS DE COMPRA')}>CONSEJOS DE COMPRA</p>
           <p className="menuSliderTex" onClick={() => setSelectedCategory('ESTILO DE VIDA')}>ESTILO DE VIDA</p>
           <p className="menuSliderTex" onClick={() => setSelectedCategory('EMERGENCIA')}>EMERGENCIA</p>
-          <p className="menuSliderTex" onClick={() => setSelectedCategory('CONOCIMIENTO')}>CONOCIMIENTO</p>
+          <p className="menuSliderTex" onClick={() => setSelectedCategory('APRENDEMAS')}>APRENDÉ MÁS</p>
           <p className="menuSliderTex" onClick={() => setSelectedCategory('NOVEDADES')}>NOVEDADES</p>
         </div>
 
@@ -46,7 +46,7 @@ const Blog = () => {
                 <a href="/Blog/expo-san-juan-minera-2024-jackery-estuvo-presente" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
               </div>
               <div id="novedades" className="cardSlider container mb-3">
-                <p className="texSlider">Jackery generador solar 240: produce tu propia energía al aire libre</p>
+                <p className="texSlider">Jackery generador solar 240: producí tu propia energía al aire libre</p>
                 <Cards11 />
                 <a href="/Blog/jackery-generador-solar-240-produce-tu-propia-energia-al-aire-libre" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
               </div>
@@ -91,7 +91,7 @@ const Blog = () => {
                 <a href="/Blog/corte-de-energia" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
               </div>
               <div id="conocimiento" className="cardSlider container mb-3">
-                <p className="texSlider">CONOCIMIENTO</p>
+                <p className="texSlider">APRENDÉ MÁS</p>
                 <Cards4 />
                 <a href="/Blog/la-guia-definitiva-de-tipos-de-paneles-solares" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
               </div>
@@ -145,7 +145,7 @@ const Blog = () => {
             </div>
           )}
 
-          {selectedCategory === 'CONOCIMIENTO' && (
+          {selectedCategory === 'APRENDEMAS' && (
             <div>
               <div id="novedades" className="cardSlider container mb-3">
                 <p className="texSlider">Jackery, la solución multifuncional</p>
@@ -153,7 +153,7 @@ const Blog = () => {
                 <a href="/Blog/jackery-la-solucion-multifuncional" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
               </div>
               <div id="conocimiento" className="cardSlider container mb-3">
-                <p className="texSlider">CONOCIMIENTO</p>
+                <p className="texSlider">APRENDÉ MÁS</p>
                 <Cards4 />
                 <a href="/Blog/la-guia-definitiva-de-tipos-de-paneles-solares" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
               </div>

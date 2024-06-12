@@ -33,7 +33,7 @@ function cards() {
         <img src={imagen} class="card-img-top" alt="..."/>
         <div class="card-body">
         <h5 class="card-title text-secondary">Teclado solar: ¿puede el generador solar alimentarlo?</h5>
-        <p class="card-text">¿Quieres saber qué generador solar te conviene comprar para tu teclado solar? No te pierdas nuestra recomendación de compra</p>
+        <p class="card-text">¿Querés saber qué generador solar te conviene comprar para tu teclado solar? No te pierdas nuestra recomendación de compra</p>
         <div class=" text-body-secondary">
         Fecha: 05/03/24
         </div>

@@ -23,13 +23,13 @@ const DiaDeLaTierra = () => {
                         La Asamblea General de la Organización de las Naciones Unidas (ONU) estipuló que hoy, 22 de abril, sea el <Link to="https://www.un.org/es/observances/earth-day" target='_blank'><span style={{ color: '#F28F2E' }}>día de la tierra</span></Link>. De esta forma, la ONU pretende visibilizar las problemáticas ambientales que afectan a nuestro planeta, las cuales debemos abordar urgentemente.
                     </p>
                     <p>
-                        Para lograr un verdadero cambio, resulta necesario que replanteemos nuestras acciones cotidianas con respecto a la Tierra. Ahora bien, ¿qué podemos hacer para adoptar un estilo de vida responsable con la naturaleza? ¿Qué productos deberíamos incorporar que realmente cuiden el ecosistema? Las energías renovables son una respuesta al problema y Jackery es una opción accesible para todos.
+                        Para lograr un verdadero cambio, resulta necesario que replanteemos nuestras acciones cotidianas con respecto a la Tierra. Ahora bien, ¿qué podemos hacer para adoptar un estilo de vida responsable con la naturaleza? ¿Qué productos deberíamos incorporar que realmente cuiden el ecosistema? Las energías renovables son una respuesta al problema y nuestra marca Jackery es una opción accesible para todos.
                     </p>
                     <p>
-                        La tecnología de Jackery es una <span style={{ fontWeight: '700' }}>tecnología verde</span> que ayuda a cuidar al planeta y además como compañía tenemos el compromiso en proteger el medioambiente a través de diferentes alianzas con organizaciones ecológicas y actividades de concientización dirigidas al público.
+                        Nuestra tecnología es una <span style={{ fontWeight: '700' }}>tecnología verde</span> que ayuda a cuidar al planeta y además como compañía tenemos el compromiso en proteger el medioambiente a través de diferentes alianzas con organizaciones ecológicas y actividades de concientización dirigidas al público.
                     </p>
                     <p>
-                        En tal sentido, Jackery renueva su apoyo a <span style={{ fontWeight: '700' }}>World Wildlife Fund (WWF)</span> para la protección de especies en peligro de extinción. Por ejemplo, Jackery US le ofreció sus generadores y paneles solares para que la fundación pudiera rastrear a los hurones bajo tierra, utilizando dispositivos que no emitieran contaminación ni ruido que asustara a dichos animales.
+                        En tal sentido, renovamos nuestro apoyo a <span style={{ fontWeight: '700' }}>World Wildlife Fund (WWF)</span> para la protección de especies en peligro de extinción. Por ejemplo, Jackery US le ofreció sus generadores y paneles solares para que la fundación pudiera rastrear a los hurones bajo tierra, utilizando dispositivos que no emitieran contaminación ni ruido que asustara a dichos animales.
                     </p>
 
                     <div className='NotaConteiner'>
@@ -45,7 +45,7 @@ const DiaDeLaTierra = () => {
                     </p>
 
                     <p>
-                        Estas acciones son una de las tantas que Jackery emprendió para seguir cuidando a la Tierra.
+                        Estas acciones son una de las tantas que nuestra marca emprendió para seguir cuidando a la Tierra.
                     </p>
 
                     <p>
@@ -57,7 +57,7 @@ const DiaDeLaTierra = () => {
                     </p>
 
                 </div>
-                
+
                 <div id="novedades" className="cardSlider container mb-3">
                     <p className="texSlider">NOVEDADES</p>
                     <Cards3 />

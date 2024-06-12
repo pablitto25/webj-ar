@@ -11,7 +11,7 @@ function Cards9() {
             <img src={imagen3} class="card-img-top" alt="..." />
             <div class="card-body">
               <h5 class="card-title text-secondary">Panel Jackery Solarsaga 100w</h5>
-              <p class="card-text">Sumate a la energía limpia que ofrecemos. Entra a la nota y conoce las ventajas de tener un panel solar en tu casa.</p>
+              <p class="card-text">Sumate a la energía limpia que ofrecemos. Entrá a la nota y conocé las ventajas de tener un panel solar en tu casa.</p>
               <div class=" text-body-secondary">
                 Fecha: 15/05/24
               </div>

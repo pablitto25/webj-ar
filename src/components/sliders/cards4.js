@@ -35,7 +35,7 @@ function cards() {
          <img src={imagen2} class="card-img-top" alt="..."/>
          <div class="card-body">
          <h5 class="card-title text-secondary">La guía definitiva de tipos de paneles solares</h5>
-         <p class="card-text">Conoce en detalle las características y el funcionamiento de los paneles solares.</p>
+         <p class="card-text">Conocé en detalle las características y el funcionamiento de los paneles solares.</p>
          <div class=" text-body-secondary">
          Fecha: 05/03/24
          </div>

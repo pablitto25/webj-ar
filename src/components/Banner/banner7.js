@@ -12,9 +12,9 @@ const Banner7 = () => {
          <div className='BannerTex'>
                 <h1 className='BannerTexTitle'>Tecnología verde,</h1>
                 <h1 className='BannerTexTitle'>tecnología Jackery</h1>
-                <h2 className='BannerTexSubTitle'>Nuestro planeta reclama la transición energética. </h2>
-                <h2 className='BannerTexSubTitle'>Empieza a formar parte del cambio con la energía</h2>
-                <h2 className='BannerTexSubTitle'>limpia de Jackery.</h2>
+                <h2 className='BannerTexSubTitle'>Nuestro planeta reclama la transición energética. Empezá a formar parte del cambio con la energía limpia que nuestra marca ofrece.</h2>
+                {/* <h2 className='BannerTexSubTitle'>Empezá a formar parte del cambio con la energía</h2>
+                <h2 className='BannerTexSubTitle'>limpia de Jackery.</h2> */}
             </div>
         </div>
         <div className="stripe-1"></div>

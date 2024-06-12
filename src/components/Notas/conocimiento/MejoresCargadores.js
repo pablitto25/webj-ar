@@ -37,7 +37,7 @@ const MejoresCargadores = () => {
             Un cargador solar para excursionismo es un dispositivo que recoge y utiliza la electricidad del sol. Puede conectarse a una luz o a un celular para proporcionar horas de electricidad durante la noche. Es increíblemente ligero y portátil, lo que lo hace ideal para viajar y hacer senderismo.
           </p>
           <p>
-            Puede tener diferentes diseños, tamaños y opciones de iluminación. Además, suelen ser económicos. Un cargador solar generalmente incluye una pequeña batería y paneles solares. Asimismo, suelen estar equipados con una opción de almacenamiento de energía que permite a los usuarios guardar energía para su uso posterior. También es posible conectar varios paneles para cargar elementos más grandes como computadoras portátiles y tabletas, lo que los hace perfectos para acampar con amigos.
+            Pueden tener diferentes diseños, tamaños y opciones de iluminación. Además, suelen ser económicos. Un cargador solar generalmente incluye una pequeña batería y paneles solares. Asimismo, suelen estar equipados con una opción de almacenamiento de energía que permite a los usuarios guardar energía para su uso posterior. También es posible conectar varios paneles para cargar elementos más grandes como computadoras portátiles y tabletas, lo que los hace perfectos para acampar con amigos.
           </p>
         </div>
         <div className='NotaTitleConteiner'>
@@ -70,7 +70,7 @@ const MejoresCargadores = () => {
         </div>
         <div className='NotaTexConteiner'>
           <p>
-            Si ya tienes un banco de energía, adquirir un panel solar para cargar tus pequeños dispositivos electrónicos es la opción más práctica. Esto es especialmente importante si estás alejado de una fuente de energía durante una semana o más. Un panel solar es una excelente alternativa porque tienen un precio económico y pueden cargar varios dispositivos.
+            Si ya tenés un banco de energía, adquirir un panel solar para cargar tus pequeños dispositivos electrónicos es la opción más práctica. Esto es especialmente importante si estás alejado de una fuente de energía durante una semana o más. Un panel solar es una excelente alternativa porque tienen un precio económico y pueden cargar varios dispositivos.
           </p>
         </div>
         <div className='NotaTitleConteiner'>
@@ -80,7 +80,7 @@ const MejoresCargadores = () => {
         </div>
         <div className='NotaTexConteiner'>
           <p>
-            Considera obtener un cargador solar portátil con una batería integrada para evitar llevar un panel solar y un banco de energía por separado. Estos dispositivos son fantásticos porque son autocontenidos y fáciles de usar. Despliega el panel para revelar las celdas solares y deja que cargue la batería interna al sol. Una vez configurado, puedes usarlo para alimentar tus dispositivos de la misma manera que usarías un banco de energía.
+            Considerá obtener un cargador solar portátil con una batería integrada para evitar llevar un panel solar y un banco de energía por separado. Estos dispositivos son fantásticos porque son autocontenidos y fáciles de usar. Despliega el panel para revelar las celdas solares y dejá que cargue la batería interna al sol. Una vez configurado, podés usarlo para alimentar tus dispositivos de la misma manera que usarías un banco de energía.
           </p>
         </div>
         <div className='NotaImgConteiner'>
@@ -93,7 +93,7 @@ const MejoresCargadores = () => {
         </div>
         <div className='NotaTexConteiner'>
           <p>
-            También están disponibles paquetes de cargador solar con un panel solar y una batería externa. Esto es ideal si tienes un banco de energía que deseas utilizar para almacenar energía y necesitas una forma de mantenerlo cargado durante tus viajes. Debes encontrar el cable adecuado para conectar los paneles solares a la batería externa.
+            También están disponibles paquetes de cargador solar con un panel solar y una batería externa. Esto es ideal si tenés un banco de energía que deseas utilizar para almacenar energía y necesitás una forma de mantenerlo cargado durante tus viajes. Tenés encontrar el cable adecuado para conectar los paneles solares a la batería externa.
           </p>
         </div>
         <div className='NotaTitleConteiner'>
@@ -113,7 +113,7 @@ const MejoresCargadores = () => {
         </div>
         <div className='NotaTexConteiner'>
           <p>
-            Los cargadores solares se están volviendo cada vez más populares. Elegir el mejor cargador solar para excursionismo puede llevar mucho trabajo. Ya seas un principiante en el excursionismo o un experto experimentado, este es un buen lugar para comenzar a decidir qué cargador solar portátil es el mejor para ti.
+            Los cargadores solares se están volviendo cada vez más populares. Elegir el mejor cargador solar para excursionismo puede llevar mucho trabajo. Ya seas un principiante en el excursionismo o un experto experimentado, este es un buen lugar para comenzar a decidir qué cargador solar portátil es el mejor para vos.
           </p>
           <p>
             Es hora, entonces, de averiguar qué cargador solar se adapta mejor a tus necesidades. Jackery fabrica algunos de los mejores cargadores solares portátiles disponibles en la actualidad. Todos los generadores solares de Jackery son excepcionalmente ligeros y compactos, lo que los hace ideales para transportar. Utilizan paneles solares SolarSaga con estaciones de energía Explorer para convertir la energía solar en electricidad y almacenarla para su uso posterior, lo que te permite utilizarlos cuando y donde desees, incluso durante la noche.
@@ -124,7 +124,7 @@ const MejoresCargadores = () => {
         </div>
         <div className='NotaTexConteiner'>
           <p>
-            Los generadores solares portátiles de Jackery están demostrando ser un medio práctico para suministrar electricidad en exteriores, gracias a los avances en la eficiencia de las celdas solares. Cualquiera puede cargar sus dispositivos aprovechando la energía del sol en lugar de llevar baterías físicas o agotar la batería de su vehículo o camper.
+            Nuestros generadores solares están demostrando ser un medio práctico para suministrar electricidad en exteriores, gracias a los avances en la eficiencia de las celdas solares. Cualquiera puede cargar sus dispositivos aprovechando la energía del sol en lugar de llevar baterías físicas o agotar la batería de su vehículo o camper.
           </p>
         </div>
         <div className='NotaTitleConteiner'>
@@ -134,10 +134,10 @@ const MejoresCargadores = () => {
         </div>
         <div className='NotaTexConteiner'>
           <p>
-            Algunas excursiones de excursionismo requieren que lleves solo el equipo más ligero y pequeño. Como resultado, el excursionismo ultraligero hace que los grandes bancos de energía sean obsoletos, y solo se necesitan las soluciones más livianas.
+            Algunas excursiones de excursionismo requieren que llevés solo el equipo más ligero y pequeño. Como resultado, el excursionismo ultraligero hace que los grandes bancos de energía sean obsoletos, y solo se necesitan las soluciones más livianas.
           </p>
           <p>
-            Recomendamos el Generador Solar Jackery 240, que pesa solo 3 kg y es ideal para el excursionismo ultraligero. Este generador incluye paneles solares SolarSaga 100W y una estación de energía Explorer 240 que se puede cargar por completo en 4,5 horas. Ofrece energía sobre la marcha en un diseño compacto y ligero con varios puertos para cargar tus dispositivos principales  mientras te desplazas y disfrutas de la naturaleza.
+            Recomendamos el Generador Solar Jackery 240, que pesa solo 3 kg y es ideal para el excursionismo ultraligero. Este generador incluye paneles solares SolarSaga 100W y una estación de energía Explorer 240 que se puede cargar por completo en 4,5 horas. Ofrece energía sobre la marcha en un diseño compacto y ligero con varios puertos para cargar tus dispositivos principales  mientras te desplazás y disfrutás de la naturaleza.
           </p>
         </div>
         <div className='NotaTexConteiner'>
@@ -151,7 +151,7 @@ const MejoresCargadores = () => {
                 <td className='HeadTitleTable'>Electrónicos</td>
               </tr>
               <tr>
-                <td>Jackery Solar Generator 240</td>
+                <td>Jackery Solar Generador 240</td>
                 <td>
                   240Wh
                 </td>
@@ -181,7 +181,7 @@ const MejoresCargadores = () => {
         </div>
         <div className='NotaTexConteiner'>
           <p>
-            Nada supera la agonía de que tu cargador solar sea dañado por unas gotas de agua mientras acampas. El daño por agua ha obligado frecuentemente a los turistas a posponer sus viajes de senderismo. Los generadores solares de Jackery priorizan la resistencia al agua, la seguridad y la confiabilidad; cuentan con una cubierta externa resistente a la intemperie hecha de ETFE que les brinda una apariencia robusta para mejorar su rendimiento y durabilidad, y nunca debes preocuparte por que ocurra un accidente.
+            Nada supera la agonía de que tu cargador solar sea dañado por unas gotas de agua mientras acampás. El daño por agua ha obligado frecuentemente a los turistas a posponer sus viajes de senderismo. Los generadores solares de Jackery priorizan la resistencia al agua, la seguridad y la confiabilidad; cuentan con una cubierta externa resistente a la intemperie hecha de ETFE que les brinda una apariencia robusta para mejorar su rendimiento y durabilidad, y nunca tengas que preocuparte algún eventual accidente.
           </p>
         </div>
         <div className='NotaTitleConteiner'>
@@ -191,13 +191,13 @@ const MejoresCargadores = () => {
         </div>
         <div className='NotaTexConteiner'>
           <p>
-            Dado que un cargador solar para excursionismo se alimenta del sol, deberías poder cargarlo mientras estás en movimiento con los paneles solares expuestos al sol. Sin embargo, hay algunos factores a considerar al decidir el tipo de cargador solar que deseas.
+            Dado que un cargador solar para excursionismo se alimenta del sol, deberías poder cargarlo mientras estás en movimiento con los paneles solares expuestos al sol. Sin embargo, hay algunos factores a considerar al decidir el tipo de cargador solar que deseás.
           </p>
           <p style={{ fontWeight: '700', paddingLeft: '2rem' }}>
             Velocidad de carga
           </p>
           <p>
-            Hay numerosas alternativas disponibles, pero no todas son potentes. Quieres algo que cargue tus dispositivos rápidamente para que puedas disfrutar de tu viaje sin preocupaciones. Además, estos cargadores requieren luz solar para funcionar. Todos estos cargadores funcionarán incluso cuando esté nublado, aunque no tan eficientemente. Y cualquiera de los que mencionamos en nuestra reseña funcionará bien como cargador solar para excursionismo. Los generadores solares Jackery son los equipos de carga solar más rápidos del mercado: cargado en solo casi 2 horas.
+            Hay numerosas alternativas disponibles, pero no todas son potentes. Querés algo que cargue tus dispositivos rápidamente para que puedas disfrutar de tu viaje sin preocupaciones. Además, estos cargadores requieren luz solar para funcionar. Todos estos cargadores funcionarán incluso cuando esté nublado, aunque no tan eficientemente. Y cualquiera de los que mencionamos en nuestra reseña funcionará bien como cargador solar para excursionismo. Nuestros generadores solares son los equipos de carga solar más rápidos del mercado: cargado en solo casi 2 horas.
           </p>
           <p style={{ fontWeight: '700', paddingLeft: '2rem' }}>
             Peso
@@ -212,7 +212,7 @@ const MejoresCargadores = () => {
             Puertos de carga
           </p>
           <p>
-            Debes seleccionar cuántos dispositivos usarás y cuántos requerirán carga durante tu viaje. Esto te ayudará a determinar cuántos puertos de carga USB necesitarás. Todos los generadores solares Jackery tienen más de tres salidas y, gracias a la función de carga passthrough, puedes cargar tanto los dispositivos como la estación de energía solar al mismo tiempo.
+            Tenés que seleccionar cuántos dispositivos usarás y cuántos requerirán carga durante tu viaje. Esto te ayudará a determinar cuántos puertos de carga USB necesitarás. Todos nuestro generadores tienen más de tres salidas y, gracias a la función de carga passthrough, podés cargar tanto los dispositivos como la estación de energía solar al mismo tiempo.
           </p>
         </div>
         <div className='NotaTitleConteiner'>
@@ -225,13 +225,13 @@ const MejoresCargadores = () => {
             ¿Cómo puedo cargar mi cargador solar sin sol?
           </p>
           <p>
-            Puedes recargar tu batería solar con una batería conectándola a un enchufe de pared u otra fuente de energía. Conecta un extremo del conector USB a tu batería solar y el otro a la fuente de energía. Por ejemplo, los generadores solares Jackery admiten paneles solares, enchufes de pared y puertos de automóvil para recargar, lo que elimina la necesidad de trabajar de noche o en interiores.
+            Podés recargar tu batería solar con una batería conectándola a un enchufe de pared u otra fuente de energía. Conectá un extremo del conector USB a tu batería solar y el otro a la fuente de energía. Por ejemplo, nuestros generadores solares admiten paneles solares, enchufes de pared y puertos de automóvil para recargar, lo que elimina la necesidad de trabajar de noche o en interiores.
           </p>
           <p style={{ fontWeight: '700', paddingLeft: '2rem' }}>
             ¿Cuánto tiempo tardo en alimentar mis dispositivos a través del cargador solar?
           </p>
           <p>
-            El tiempo necesario para alimentar un dispositivo con un cargador solar depende principalmente de la capacidad de su batería y de la eficiencia de conversión de la luz solar. Aquí tienes un método para calcular cuánto tiempo lleva cargar tus dispositivos con el generador solar Jackery:
+            El tiempo necesario para alimentar un dispositivo con un cargador solar depende principalmente de la capacidad de su batería y de la eficiencia de conversión de la luz solar. Acá tenés un método para calcular cuánto tiempo lleva cargar tus dispositivos con el generador solar Jackery:
           </p>
           <p style={{ fontWeight: '700' }}>
             Tiempo de funcionamiento = capacidad del generador solar * 0,85 / potencia de funcionamiento de tu dispositivo
@@ -253,7 +253,7 @@ const MejoresCargadores = () => {
         </div>
         <div className='NotaTexConteiner'>
           <p>
-            Para resumir, puedes elegir el mejor cargador solar para excursionismo que satisfaga tus necesidades entre los numerosos productos disponibles. Debes considerar algunos aspectos al elegir un cargador solar. Primero, considera cuánto tiempo dependerás de él para cargar tus dispositivos y luego cuántas salidas o puertos contiene. Por último, examina la capacidad de energía y la velocidad. Con su tamaño compacto, alta capacidad y energía limpia, los generadores solares Jackery son los compañeros ideales de energía para el excursionismo.
+            Para resumir, podés elegir el mejor cargador solar para excursionismo que satisfaga tus necesidades entre los numerosos productos disponibles. Tenés que considerar algunos aspectos al elegir un cargador solar. Primero, considerá cuánto tiempo dependerás de él para cargar tus dispositivos y luego cuántas salidas o puertos contiene. Por último, examiná la capacidad de energía y la velocidad. Con su tamaño compacto, alta capacidad y energía limpia, nuestros generadores solares son los compañeros ideales de energía para el excursionismo.
           </p>
         </div>
         {/* End Note */}

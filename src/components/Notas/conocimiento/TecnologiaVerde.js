@@ -47,7 +47,7 @@ const TecnologiaVerde = () => {
                     </ul>
 
                     <p>
-                        La tecnología de <Link to="https://www.jackerychile.com/" target='_blank'><span style={{ color: '#FF5000' }}>Jackery</span></Link>, en definitiva, es eficiente y ecológica ya que permite generar energía para el funcionamiento de múltiples dispositivos en cualquier lugar y momento, al mismo tiempo que cuidas el medio ambiente. Te invitamos a que te dirijas a nuestro <Link to="https://www.jackerychile.com/listado/construccion/electricidad/energia-solar/" target='_blank'><span style={{ color: '#FF5000' }}>catálogo</span></Link> y veas qué producto se acomoda mejor a tus necesidades
+                    Nuestra tecnología, en definitiva, es eficiente y ecológica ya que permite generar energía para el funcionamiento de múltiples dispositivos en cualquier lugar y momento, al mismo tiempo que cuidas el medio ambiente. Te invitamos a que te dirijas a nuestro <Link to="https://www.jackerychile.com/listado/construccion/electricidad/energia-solar/" target='_blank'><span style={{ color: '#FF5000' }}>catálogo</span></Link> y veas qué producto se acomoda mejor a tus necesidades
                     </p>
 
 

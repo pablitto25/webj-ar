@@ -10,8 +10,8 @@ function Cards10() {
           <div class="card border-0 mb-3" style={{ width: '18rem' }}>
             <img src={imagen3} class="card-img-top" alt="..." />
             <div class="card-body">
-              <h5 class="card-title text-secondary">Panel Jackery Solarsaga 100w</h5>
-              <p class="card-text">Sumate a la energía limpia que ofrecemos. Entra a la nota y conoce las ventajas de tener un panel solar en tu casa.</p>
+              <h5 class="card-title text-secondary">Jackery, la solución multifuncional</h5>
+              <p class="card-text">Descubrí todo lo que podés hacer con una estación de energía Jackery. Animate a inventar tu propio estilo de vida.</p>
               <div class=" text-body-secondary">
                 Fecha: 17/05/24
               </div>

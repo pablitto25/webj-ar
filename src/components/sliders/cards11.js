@@ -11,7 +11,7 @@ function Cards11() {
             <img src={imagen3} class="card-img-top" alt="..." />
             <div class="card-body">
               <h5 class="card-title text-secondary">Jackery generador solar 240:</h5>
-              <p class="card-text">Conoce el generador solar 240 de Jackery: el generador que necesitas para tu próxima escapada al aire libre.</p>
+              <p class="card-text">Conocé el generador solar 240 de Jackery: el generador que necesitá para tu próxima escapada al aire libre.</p>
               <div class=" text-body-secondary">
                 Fecha: 21/05/24
               </div>

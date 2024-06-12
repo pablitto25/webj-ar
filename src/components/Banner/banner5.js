@@ -16,7 +16,7 @@ const Banner5 = () => {
                 <h2 className='BannerTexSubTitle'>una nueva era para los</h2>
                 <h2 className='BannerTexSubTitle'>generadores solares</h2>
                 <p className='BannerTexBody'>
-                Conoce el avance que Jackery presentó con respecto a los generadores solares: se viene una nueva era
+                Conocé el avance que Jackery presentó con respecto a los generadores solares: se viene una nueva era
                 </p>
                 {/* <a href="https://tu-pagina.com" className="buttonBanner mb-3" target="_blank" rel="noopener noreferrer">
         EXPLORAR MÁS

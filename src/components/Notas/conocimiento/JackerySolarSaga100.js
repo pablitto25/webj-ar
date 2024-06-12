@@ -39,7 +39,7 @@ const JackerySolarSaga100 = () => {
                         </li>
                         <li><strong>Un verdadero aliado</strong><br />
                             Al ser compatible con estaciones de energía, puede ser un gran aliado en tu vida ya que podrás usarlo como generador de energía en cualquier momento y lugar: en tus excursiones, campamentos, casos de emergencias, para trabajar remoto, etc.
-                            El <strong>panel Solarsaga 100 W</strong> te traerá muchos beneficios en tu rutina. Si deseas conocer más sobre este producto, te invitamos a que accedes en el siguiente <Link to="/PRODUCTOS/Jackery%20SolarSaga%20100" target='_blank'><span style={{ color: '#FF5000' }}>link</span></Link>.
+                            El <strong>panel Solarsaga 100 W</strong> te traerá muchos beneficios en tu rutina. Si deseás conocer más sobre este producto, te invitamos a que accedes en el siguiente <Link to="/PRODUCTOS/Jackery%20SolarSaga%20100" target='_blank'><span style={{ color: '#FF5000' }}>link</span></Link>.
                         </li>
                     </ol>
                     {/* fin de la nota */}

@@ -63,7 +63,7 @@ const TecladoSolar = () => {
         </div>
         <div className='NotaTexConteiner'>
           <p>
-            ¿Alguna vez te has preguntado hasta dónde ha llegado el avance tecnológico? ¿Quién hubiera imaginado que se desarrollaría un teclado inalámbrico alimentado por energía solar? Las organizaciones de tecnología de la información están considerando cambiar a teclados solares ya que no representan una carga financiera para sus operaciones.
+            ¿Alguna vez te has preguntaste hasta dónde ha llegado el avance tecnológico? ¿Quién hubiera imaginado que se desarrollaría un teclado inalámbrico alimentado por energía solar? Las organizaciones de tecnología de la información están considerando cambiar a teclados solares ya que no representan una carga financiera para sus operaciones.
           </p>
           <p>
             Los teclados fotovoltaicos cargan sus baterías utilizando la luz solar. Esto cuestiona también la incapacidad de los teclados con cable para tener baterías recargables en lugar de requerir reemplazos frecuentes. Por lo general, los teclados solares deben cargarse una vez para durar un período prolongado de hasta tres meses. Además, contienen un interruptor de encendido/apagado que evita la pérdida de energía cuando no están en uso.
@@ -143,7 +143,7 @@ const TecladoSolar = () => {
         </div>
         <div className='NotaTexConteiner'>
           <p>
-            El teclado inalámbrico alimentado por energía solar es un digno competidor debido a su tamaño compacto y su tecnología alimentada por energía solar que se carga mediante la luz solar y la luz artificial. El teclado se carga de forma gradual mediante una hilera de paneles solares en la parte superior, lo cual es una de las primeras cosas que uno nota:
+            El teclado inalámbrico alimentado por energía solar es un digno competidor debido a su tamaño compacto y su tecnología alimentada por energía solar que se carga mediante la luz solar y la luz artificial.
           </p>
         </div>
         <div className='NotaImgConteiner'>
@@ -154,16 +154,16 @@ const TecladoSolar = () => {
             El teclado solar está alimentado por el sol y tus brillantes pensamientos. Esta es la opción más libre de problemas disponible. Este teclado se recarga automáticamente en presencia de luz y conserva su carga durante al menos tres meses en completa oscuridad, permitiéndote despedirte de los problemas de las baterías.
           </p>
           <p>
-            Aunque puedas pensar que estos teclados utilizan una cantidad tan pequeña de electricidad, la cantidad es enorme si la multiplicas por la cantidad de teclados utilizados hoy en día. Por lo tanto, el consumo de electricidad es considerable. Los teclados solares reducen significativamente esto, ya que no requieren electricidad.
+            Aunque pensés pensar que estos teclados utilizan una cantidad tan pequeña de electricidad, la cantidad es enorme si la multiplicas por la cantidad de teclados utilizados hoy en día. Por lo tanto, el consumo de electricidad es considerable. Los teclados solares reducen significativamente esto, ya que no requieren electricidad.
           </p>
           <p>
-            Es fácil de usar y sencillo de conectar. Debido a que suele ser inalámbrico, no estás atado a un solo lugar. En su lugar, eres libre de moverte a cualquier lugar o llevar este teclado contigo a cualquier sitio.
+            Es fácil de usar y sencillo de conectar. Debido a que suele ser inalámbrico, no estás atado a un solo lugar. En su lugar, sos libre de moverte a cualquier lugar o llevar este teclado contigo a cualquier sitio.
           </p>
           <p>
             Los paneles solares alimentan el teclado a través de la luz solar u cualquier otra fuente de luz, como una bombilla eléctrica. Los teclados solares son una fuente de energía sostenible y ayudan a reducir la contaminación generada por las baterías. Utilizar la luz solar como fuente de energía es gratuito y sencillo de implementar.
           </p>
           <p>
-            En comparación con un teclado convencional, la importancia de un teclado solar alimentado por energía solar es enorme. Los teclados convencionales funcionan con electricidad, un recurso costoso y perjudicial para el medio ambiente. Persisten incertidumbres con respecto al teclado solar, como su producción inmadura, popularidad y dependencia de la luz solar. O puedes optar por un generador solar para maximizar la energía solar.
+            En comparación con un teclado convencional, la importancia de un teclado solar alimentado por energía solar es enorme. Los teclados convencionales funcionan con electricidad, un recurso costoso y perjudicial para el medio ambiente. Persisten incertidumbres con respecto al teclado solar, como su producción inmadura, popularidad y dependencia de la luz solar. O podés optar por un generador solar para maximizar la energía solar.
           </p>
         </div>
 
@@ -188,7 +188,7 @@ const TecladoSolar = () => {
             <li>El argumento más evidente para utilizar un generador solar es que es una opción respetuosa con el medio ambiente. No daña el medio ambiente porque se alimenta de energía solar y no utiliza fuentes de energía no renovables como el gas o el carbón. Además, debido a que el sol es una fuente de energía renovable, su energía es gratuita.</li>
             <li>Uno de los malentendidos más comunes sobre los generadores solares es que no se pueden utilizar cuando el clima está nublado o lluvioso. En realidad, el generador almacena energía durante los días soleados, lo que te permite seguir utilizando el dispositivo durante el mal tiempo.</li>
             <li>Tener un generador de respaldo para tu casa u oficina durante un corte de energía es una buena idea. Los modelos alimentados por energía solar son especialmente sensatos, ya que son beneficiosos para el medio ambiente y una inversión inteligente a largo plazo.</li>
-            <li>Además, los generadores solares, como los generadores solares Jackery, requieren menos mantenimiento. Por lo tanto, solo tendrás que invertir una pequeña cantidad de dinero en ellos a lo largo de su vida útil. Los generadores solares Jackery incluyen paneles solares SolarSaga y la estación de energía Explorer. La conexión mediante cables es todo lo que se necesita para que la conversión de la luz solar en electricidad ocurra sin problemas.</li>
+            <li>Además, los generadores solares, como nuestros generadores, requieren menos mantenimiento. Por lo tanto, solo tendrás que invertir una pequeña cantidad de dinero en ellos a lo largo de su vida útil. Nuestros generadores  incluyen paneles solares SolarSaga y la estación de energía Explorer. La conexión mediante cables es todo lo que se necesita para que la conversión de la luz solar en electricidad ocurra sin problemas.</li>
           </ul>
         </div>
         <div className='NotaImgConteiner'>
@@ -264,7 +264,7 @@ const TecladoSolar = () => {
         </div>
         <div className='NotaTexConteiner'>
           <p>
-            Los teclados alimentados por energía solar son respetuosos con el medio ambiente ya que utilizan la luz solar como fuente gratuita de electricidad. Son convenientes y se pueden utilizar en cualquier lugar, ni siquiera necesitan cargadores de pared. Esto significa que su consumo puede ser minimizado, lo que resulta en un ambiente más limpio.
+            Los teclados alimentados por energía solar son respetuosos con el medio ambiente ya que utilizan la luz solar como fuente gratuita de electricidad. Son convenientes y se pueden utilizar en cualquier lugar, ni siquiera necesitan cargadores de pared. Esto significa que tu consumo puede ser minimizado, lo que resulta en un ambiente más limpio.
           </p>
         </div>
         <div className='NotaImgConteiner'>
@@ -275,13 +275,13 @@ const TecladoSolar = () => {
             Un generador solar portátil puede ser la solución óptima para alimentar teclados inalámbricos o estándar, ya sea en casa o fuera de la red, en comparación con los teclados solares, que están en una fase temprana de desarrollo y dependen en gran medida de las condiciones climáticas.
           </p>
           <p>
-            Los generadores solares de Jackery son una solución integral para alimentar rápidamente teclados y la mayoría de los electrodomésticos. Al generar y almacenar energía, los generadores solares de Jackery no emiten contaminantes, lo que reduce tu huella de carbono. También pueden salvar vidas en numerosas situaciones. Si vives en un área expuesta a cortes de energía, tener un generador de respaldo puede marcar la diferencia entre mantenerse seguro y cómodo en casa o quedarse a oscuras.
+            Nuestros generadores son una solución integral para alimentar rápidamente teclados y la mayoría de los electrodomésticos. Al generar y almacenar energía, nuestros generadores no emiten contaminantes, lo que reduce tu huella de carbono. También pueden salvar vidas en numerosas situaciones. Si vivís en un área expuesta a cortes de energía, tener un generador de respaldo puede marcar la diferencia entre mantenerse seguro y cómodo en casa o quedarse a oscuras.
           </p>
           <p>
-            Existen varias opciones de generadores solares de Jackery disponibles para alimentar tu teclado. Ten en cuenta que un teclado inactivo no se refiere simplemente a uno que no está en uso. Un teclado seguirá consumiendo energía incluso cuando el monitor esté en hibernación. Debido a la baja cantidad de energía utilizada en estos intervalos, es posible que no lo notes.
+            Tenemos varias opciones de generadores solares disponibles para alimentar tu teclado. Tené en cuenta que un teclado inactivo no se refiere simplemente a uno que no está en uso. Un teclado seguirá consumiendo energía incluso cuando el monitor esté en hibernación. Debido a la baja cantidad de energía utilizada en estos intervalos, es posible que no lo notés.
           </p>
           <p>
-            Por lo tanto, se recomienda encarecidamente el generador solar 500 y 240 de Jackery para alimentar teclados, ya que son excelentes para teclados de tamaño compacto y tienen suficiente capacidad. También hay disponibles otros productos alimentados por energía solar, como luces, teléfonos e incluso cargadores de batería. Explora tus opciones y embárcate en el camino hacia un estilo de vida más ecológico.
+            Por lo tanto, recomendamos encarecidamente el generador solar 500 y 240 de Jackery para alimentar teclados, ya que son excelentes para teclados de tamaño compacto y tienen suficiente capacidad. También hay disponibles otros productos alimentados por energía solar, como luces, teléfonos e incluso cargadores de batería. Explorá tus opciones y embarcate en el camino hacia un estilo de vida más ecológico.
           </p>
 
           <table className='NotaTableContainer'>
@@ -293,7 +293,7 @@ const TecladoSolar = () => {
                 <td className='HeadTitleTable'>Horas de funcionamiento</td>
               </tr>
               <tr>
-                <td className='HeadTitleTable'>Jackery Solar Generator 500
+                <td className='HeadTitleTable'>Jackery Solar Generador 500
                   (518Wh)
                 </td>
                 <td>
@@ -322,7 +322,7 @@ const TecladoSolar = () => {
                 </td>
               </tr>
               <tr>
-                <td className='HeadTitleTable'>Jackery Solar Generator 240
+                <td className='HeadTitleTable'>Jackery Solar Generador 240
                   (240Wh)
                 </td>
                 <td>
@@ -353,49 +353,49 @@ const TecladoSolar = () => {
 
         <div className='NotaTitleConteiner'>
           <p>
-          Preguntas frecuentes
+            Preguntas frecuentes
           </p>
         </div>
         <div className='NotaTexConteiner'>
-          <p style={{fontWeight: '700', paddingLeft: '2rem'}}>
+          <p style={{ fontWeight: '700', paddingLeft: '2rem' }}>
             ¿Qué tamaño de generador solar necesito para alimentar un teclado?
           </p>
           <p>
-          Al decidir cómo alimentar los teclados con energía solar, es importante estimar la potencia en vatios de un teclado y elegir un generador solar de tamaño adecuado. Por lo general, un teclado consume entre 0,5W y 2,5W. En consecuencia, todos los generadores solares de Jackery pueden alimentar teclados, lo que te permite seleccionar el mejor generador que se ajuste a tus necesidades.
+            Al decidir cómo alimentar los teclados con energía solar, es importante estimar la potencia en vatios de un teclado y elegir un generador solar de tamaño adecuado. Por lo general, un teclado consume entre 0,5W y 2,5W. En consecuencia, todos nuestros generadores pueden alimentar teclados, lo que te permite seleccionar el mejor generador que se ajuste a tus necesidades.
           </p>
           <p>
-          Así es cómo puedes calcular cuánto tiempo tardará el generador solar de Jackery en cargar tus teclados:
+            Así es cómo podés calcular cuánto tiempo tardará el generador solar de Jackery en cargar tus teclados:
           </p>
           <p>
-          Horas de funcionamiento = capacidad del generador solar * 0,85 / vatios del teclado
+            Horas de funcionamiento = capacidad del generador solar * 0,85 / vatios del teclado
           </p>
           <p>
-          Por ejemplo, el generador solar Jackery 240 (capacidad de 240Wh) tardará 81,6 horas en cargar tu teclado (2,5W) (240Wh * 0,85 / 2,5W).
+            Por ejemplo, el generador solar Jackery 240 (capacidad de 240Wh) tardará 81,6 horas en cargar tu teclado (2,5W) (240Wh * 0,85 / 2,5W).
           </p>
-          <p style={{fontWeight: '700', paddingLeft: '2rem'}}>
+          <p style={{ fontWeight: '700', paddingLeft: '2rem' }}>
             ¿Cuánto tiempo tarda en cargarse un teclado solar?
           </p>
           <p>
-          Por lo general, los teclados solares deben cargarse una vez para tener una duración prolongada. Algunos teclados incorporan un botón de encendido/apagado para conservar energía cuando el teclado no está en uso. Los teclados solares no utilizan baterías reemplazables, por lo que es importante considerar cómo extender la vida útil de la batería sin tener que recargarla con frecuencia.
+            Por lo general, los teclados solares deben cargarse una vez para tener una duración prolongada. Algunos teclados incorporan un botón de encendido/apagado para conservar energía cuando el teclado no está en uso. Los teclados solares no utilizan baterías reemplazables, por lo que es importante considerar cómo extender la vida útil de la batería sin tener que recargarla con frecuencia.
           </p>
           <p>
-          Además, la compañía te proporciona una copia de la aplicación Solar. Esta aplicación de escritorio incluye un medidor de luz que indica el nivel de batería y una alerta de consumo de energía. Incluso determina qué lugares proporcionan la mayor cantidad de energía para cargar el teclado.
+            Además, la compañía te proporciona una copia de la aplicación Solar. Esta aplicación de escritorio incluye un medidor de luz que indica el nivel de batería y una alerta de consumo de energía. Incluso determina qué lugares proporcionan la mayor cantidad de energía para cargar el teclado.
           </p>
-          <p style={{fontWeight: '700', paddingLeft: '2rem'}}>
-          ¿Los teclados solares se cargan con luz artificial?
+          <p style={{ fontWeight: '700', paddingLeft: '2rem' }}>
+            ¿Los teclados solares se cargan con luz artificial?
           </p>
           <p>
-          Sí, los teclados solares pueden cargarse tanto con luz natural como con luz artificial. Los teclados solares inalámbricos son fantásticos para mantener ordenado tu lugar de trabajo. Las células solares que recubren la parte superior del dispositivo utilizan la luz ambiental para cargar el teclado, incluyendo la iluminación del escritorio, las bombillas fluorescentes del techo e incluso la luz solar para los usuarios más tradicionales. Una vez instalado, el teclado funciona continuamente siempre y cuando haya al menos algo de luz.
+            Sí, los teclados solares pueden cargarse tanto con luz natural como con luz artificial. Los teclados solares inalámbricos son fantásticos para mantener ordenado tu lugar de trabajo. Las células solares que recubren la parte superior del dispositivo utilizan la luz ambiental para cargar el teclado, incluyendo la iluminación del escritorio, las bombillas fluorescentes del techo e incluso la luz solar para los usuarios más tradicionales. Una vez instalado, el teclado funciona continuamente siempre y cuando haya al menos algo de luz.
           </p>
         </div>
         <div className='NotaTitleConteiner'>
           <p>
-          Conclusiones
+            Conclusiones
           </p>
         </div>
         <div className='NotaTexConteiner'>
           <p>
-          Un teclado solar probablemente sea la mejor opción en términos de eficiencia y comodidad ya que está equipado con todas las funcionalidades de un teclado inalámbrico, al mismo tiempo que cuida el medioambiente. Los generadores solares de Jackery son lo más adecuados para alimentar teclados y otros dispositivos con energía renovable.
+            Un teclado solar probablemente sea la mejor opción en términos de eficiencia y comodidad ya que está equipado con todas las funcionalidades de un teclado inalámbrico, al mismo tiempo que cuida el medioambiente. Nuestros generadores solares son lo más adecuados para alimentar teclados y otros dispositivos con energía renovable.
           </p>
         </div>
 
