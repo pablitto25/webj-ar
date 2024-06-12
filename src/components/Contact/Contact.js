@@ -15,7 +15,7 @@ const CONTACTO = () => {
       </Helmet>
       <header className='conteinerContactImg'>
         <div>
-          <h1 className='ContactTitle'>Contáctenos</h1>
+          <h1 className='ContactTitle'>Contactanos</h1>
         </div>
 
       </header>
