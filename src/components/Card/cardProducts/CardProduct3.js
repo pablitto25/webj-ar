@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './CardProduct1.css';
 
-import imagen1 from './assests/producto3/240130-Jackery-Web-Landing Explorer 1000-1200x1200-05.png';
+import imagen1 from './assests/producto3/Explorer 1000 Pequeña y portátil_ sólo pesa 10 kg.png';
 import vista1 from './assests/producto3/240130-Jackery-Web-Landing Explorer 1000-1200x1200-01.jpg';
 import vista2 from './assests/producto3/240130-Jackery-Web-Landing Explorer 1000-1200x1200-02.jpg';
 import vista3 from './assests/producto3/240130-Jackery-Web-Landing Explorer 1000-1200x1200-03.jpg';

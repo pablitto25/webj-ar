@@ -27,14 +27,30 @@ const PRODUCTOS2 = () => {
           <CardProduct2 />
         </div>
         <div className='conteinerProducts1ImagenText'>
-          <h1 className='textProducts'>Jackery Explorer 500 - Estación de energía portátil</h1>
+          <h1 className='textProducts'>Jackery Explorer 500 <br/> Estación de energía portátil</h1>
           <h2 className='numberProducts'> $1.099.999</h2>
-          <p className='BodyProducts'>Batería de litio de 518 Wh</p>
+          {/* <p className='BodyProducts'>Batería de litio de 518 Wh</p>
           <p className='BodyProducts'>500 W de salida (1000 W de sobrecarga)</p>
           <p className='BodyProducts'>Diseño portátil</p>
           <p className='BodyProducts'>3 opciones de carga</p>
           <p className='BodyProducts'>3 modalidades de salida</p>
-          <p className='BodyProducts'>Indicadores en pantalla de potencia de entrada/salida y batería restante</p>
+          <p className='BodyProducts'>Indicadores en pantalla de potencia de entrada/salida y batería restante</p> */}
+          <p className='BodyProducts'>La Jackery Explorer 240 es la fuente de suministro de energía ideal para tus aventuras al aire libre. Su diseño portátil y sus características de seguridad avanzada la convierten en la estación más elegida por los campistas.</p>
+          <ul className='specifications'>
+            <li>Capacidad: 24Ah / 21.6 V (518.4Wh)</li>
+            <li>Peso: 6.4Kg</li>
+            <li>Dimesiones: 30 x 19.3 x 24.2cm</li>
+            <li>DC Entrada: 24V=3.75 A (soporta 12-30V)</li>
+            <li>AC Salida: 230V - 50Hz, 2.17A, 500W Max Continua, 1000W pico de sobretension</li>
+            <li>DC Salida: 2x12 = 7A</li>
+            <li>Puerto automovil: 12V = 10A</li>
+            <li>Salida USB: 3 x usb-a Salida 5V = 2.4A</li>
+            <li>Batería: Ion Litio</li>
+            <li>Ciclos: {'>'} 800</li>
+            <li>Temperatura de funcionamiento: -10 / 40°C</li>
+            <li>Temperatura de recarga: 0 / 40°C</li>
+            <li>MPPT: Soporte de carga mppt de panel solar</li>
+          </ul>
           {/* <a href="/CONTACTO" className="myButtonProduct mb-3" target="_blank" rel="noopener noreferrer">
         CONSULTAR
       </a> */}
@@ -78,7 +94,7 @@ const PRODUCTOS2 = () => {
       </div>
       <div className='conteinerProducts4'>
         <div className='ProductDescription'>
-          <h1 className='textProducts'>Descubre más sobre energía solar</h1>
+          <h1 className='textProducts'>Descubrí más sobre energía solar</h1>
         </div>
         <div className='containerReview'>
           <div className="cardReview">
@@ -88,7 +104,7 @@ const PRODUCTOS2 = () => {
             <div className='card-body cardbodyReview'>
               <div className='card2'>
                 <h1 className='titleReview'>La solución multifuncional</h1>
-                <p className='textReview'>Descubre todo lo que puedes hacer con una estación de energía Jackery. Anímate a inventar tu propio estilo de vida</p>
+                <p className='textReview'>Descubrí todo lo que podés hacer con una estación de energía Jackery. Anímate a inventar tu propio estilo de vida</p>
               </div>
             </div>
           </div>
@@ -98,24 +114,24 @@ const PRODUCTOS2 = () => {
             </div>
             <div className='card-body cardbodyReview'>
               <div className='card2'>
-                <h1 className='titleReview'>Súmate a la energía limpia</h1>
-                <p className='textReview'>Nuestro planeta reclama la transición energética. Empieza a formar parte del cambio con la energía limpia de Jackery</p>
+                <h1 className='titleReview'>Sumate a la energía limpia</h1>
+                <p className='textReview'>Nuestro planeta reclama la transición energética. Empezá a formar parte del cambio con la energía limpia de Jackery</p>
               </div>
             </div>
           </div>
         </div>
       </div>
       <div className='conteinerProducts5'>
-        <h1 className='container textProducts center'>Todo lo que puedes alimentar con tu Explorer 500</h1>
+        <h1 className='container textProducts center'>Todo lo que podés alimentar con tu Explorer 500</h1>
         <p className='container BodyProducts'>La Explorer 500 cuenta con un toma de corriente alterna, dos puertos de corriente continua, un puerto para automóvil y tres puertos USB-A para cargar dispositivos de baja a alta potencia, como bombas de aire, máquinas CPAP, televisores, mini-refrigeradores y más. Su tamaño compacto hace que sea ideal para viajes por carretera y campamentos en casa rodante.</p>
         <CardIcons />
       </div>
       <div className='conteinerProducts6'>
         <div className='ProductDescription'>
           <h1 className='textProducts'>Simulador de tiempo de funcionamiento</h1>
-          <p className='textReview'>Ingresa el voltaje de un dispositivo (que no exceda los 500 W) y descubre cuánto tiempo, aproximadamente, puedes usarlo de manera continua si lo alimentas con la Explorer 500.</p>
+          <p className='textReview'>Ingresá el voltaje de un dispositivo (que no exceda los 500 W) y descubrí cuánto tiempo, aproximadamente, podés usarlo de manera continua si lo alimentás con la Explorer 500.</p>
           <Calculator watts={watts} wattsLimit={wattsLimit} />
-          <p>*Ten en cuenta que los resultados son aproximados</p>
+          <p>*Tené en cuenta que los resultados son aproximados</p>
         </div>
         <div id="novedades" className="cardSlider container mb-3">
           <p className="texSlider">NOVEDADES</p>

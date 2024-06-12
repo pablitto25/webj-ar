@@ -3,8 +3,8 @@ import './Products.css'
 import Cards5 from '../sliders/cards5';
 import CardProduct from '../Card/cardProducts/CardProduct8'
 import Gallery from '../gallery/gallery8';
-import imagen from './assests/producto8/240131-Jackery-Web-Aspectos Generador Solar 240-1920x1080-01.jpg'
-import imagen2 from './assests/producto8/240131-Jackery-Web-Aspectos Generador Solar 240-1920x1080-02.jpg'
+import imagen from './assests/producto8/120612-Jackery-Web-Landing-Generador 1000-I-1920x1080.jpg'
+import imagen2 from './assests/producto8/120612-Jackery-Web-Landing-Generador 1000-D-1920x1080.jpg'
 import CardIcons from '../Card/cardIcons/cardIcons8';
 import Calculator from '../calculator/calculator';
 import Footer from '../Footer/Footer';
@@ -27,13 +27,28 @@ const PRODUCTOS8 = () => {
         </div>
         <div className='conteinerProducts1ImagenText'>
           <h1 className='textProducts'>Jackery Generador Solar 240</h1>
+          <p className='BodyProducts'>El Jackery Generador Solar 240 está equipado con la estación de energía Jackery Explorer 240 y el panel solar SolarSaga 100W. ¡El combo perfecto para generar tu propía energía en donde sea que estés!</p>
+          <ul className='specifications'>
+            <li>Capacidad: 16.8Ah / 14.4 V (241.9Wh)</li>
+            <li>Peso: 3Kg</li>
+            <li>Dimesiones: 23 x 14 x 20cm</li>
+            <li>DC Entrada: 19V=3,42 A (soporta 12-30V)</li>
+            <li>AC Salida: 230V - 50Hz, 0.87A, 200W Max Continua, 400W pico de sobretension</li>
+            <li>Puerto automovil: 12V = 10A</li>
+            <li>Salida USB: 2x usb-a Salida 5V = 2.4A</li>
+            <li>Batería: Ion Litio</li>
+            <li>Ciclos: {'>'} 800</li>
+            <li>Temperatura de funcionamiento: -20 / 40°C</li>
+            <li>Temperatura de recarga: 0 / 40°C</li>
+            <li>MPPT: Soporte de carga mppt de panel solar</li>
+          </ul>
           {/* <h2 className='numberProducts'> $721.990</h2> */}
-          <p className='BodyProducts'>Jackery Generador Solar 240: Estación de Energía Portátil Jackery Explorer 240 + Panel Solar SolarSaga 100W</p>
+          {/* <p className='BodyProducts'>Jackery Generador Solar 240: Estación de Energía Portátil Jackery Explorer 240 + Panel Solar SolarSaga 100W</p>
           <p className='BodyProducts'>Batería de litio con capacidad de 240 Wh</p>
           <p className='BodyProducts'>Inversor de 200 W (sobretensión de 400 W)</p>
           <p className='BodyProducts'>Carga al 100% tu equipo en tan solo 8 horas</p>
           <p className='BodyProducts'>Resistente al agua IP65</p>
-          <p className='BodyProducts'>Alta eficiencia de conversión de hasta el 23%</p>
+          <p className='BodyProducts'>Alta eficiencia de conversión de hasta el 23%</p> */}
           <a href="/CONTACTO" className="myButtonProduct mb-3" target="_blank" rel="noopener noreferrer">
         CONSULTAR
       </a>
@@ -47,7 +62,7 @@ const PRODUCTOS8 = () => {
           <h1 className='textProducts'>Jackery Generador Solar 240</h1>
           <div className='borderContainer'>
             <p className='BodyProducts'>
-              Su diseño robusto, seguro y fácil de mantener convierte al Jackery Generador Solar 240   como uno de los favoritos de los amantes de la naturaleza. LLévalo a donde te llame la aventura.
+              Su diseño robusto, seguro y fácil de mantener convierte al Jackery Generador Solar 240   como uno de los favoritos de los amantes de la naturaleza. LLevalo a donde te llame la aventura.
             </p>
           </div>
         </div>
@@ -77,7 +92,7 @@ const PRODUCTOS8 = () => {
       </div>
       <div className='conteinerProducts4'>
         <div className='ProductDescription'>
-          <h1 className='textProducts'>Descubre más sobre energía solar</h1>
+          <h1 className='textProducts'>Descubrí más sobre energía solar</h1>
         </div>
         <div className='containerReview'>
           <div className="cardReview">
@@ -86,8 +101,8 @@ const PRODUCTOS8 = () => {
             </div>
             <div className='card-body cardbodyReview'>
               <div className='card2'>
-                <h1 className='titleReview'>Súmate a la energía limpia</h1>
-                <p className='textReview'>Nuestro planeta reclama la transición energética. Empieza a formar parte del cambio con la energía limpia de Jackery  </p>
+                <h1 className='titleReview'>Sumate a la energía limpia</h1>
+                <p className='textReview'>Nuestro planeta reclama la transición energética. Empezá a formar parte del cambio con la energía limpia de Jackery  </p>
               </div>
             </div>
           </div>
@@ -97,28 +112,28 @@ const PRODUCTOS8 = () => {
             </div>
             <div className='card-body cardbodyReview'>
               <div className='card2'>
-                <h1 className='titleReview'>Expande tus conocimientos sobre energía solar</h1>
-                <p className='textReview'> Ingresa aquí si quieres conocer más sobre el funcionamiento de los generadores solares</p>
+                <h1 className='titleReview'>Expandí tus conocimientos sobre energía solar</h1>
+                <p className='textReview'> Ingresá acá si querés conocer más sobre el funcionamiento de los generadores solares</p>
               </div>
             </div>
           </div>
         </div>
       </div>
       <div className='conteinerProducts5'>
-        <h1 className='container textProducts center'>Todo lo que puedes alimentar con tu Jackery Generador Solar 240</h1>
+        <h1 className='container textProducts center'>Todo lo que podés alimentar con tu Jackery Generador Solar 240</h1>
         <p className='textReview'>La estación de energía Explorer 240 del generador te permite alimentar simultáneamente diversos tipos de dispositivos.</p>
         <CardIcons />
       </div>
       <div className='conteinerProducts6'>
         <div className='ProductDescription'>
           <h1 className='textProducts'>Simulador de tiempo de funcionamiento</h1>
-          <p className='textReview'>Ingresa el voltaje de un dispositivo (que no exceda los 200 W) y descubre cuánto tiempo, aproximadamente, puedes usarlo de manera continua si lo alimentas con la Explorer 240. </p>
+          <p className='textReview'>Ingresá el voltaje de un dispositivo (que no exceda los 200 W) y descubrí cuánto tiempo, aproximadamente, podés usarlo de manera continua si lo alimentás con la Explorer 240. </p>
           <Calculator watts ={watts} wattsLimit = {wattsLimit}/>
-          <p>*Ten en cuenta que los resultados son aproximados</p>
+          <p>*Tené en cuenta que los resultados son aproximados</p>
         </div>
         <div id="novedades" className="cardSlider container mb-3">
           <p className="texSlider">NOVEDADES</p>
-          <Cards5 />
+          <Cards5/>
           <a href="https://tu-pagina.com" className="myButton mb-3" target="_blank" rel="noopener noreferrer">
             EXPLORAR MÁS
           </a>

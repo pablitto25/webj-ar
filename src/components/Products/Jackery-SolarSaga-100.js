@@ -1,20 +1,16 @@
 
-import './Products.css'
+import './Products.css';
 import React from 'react';
 import Cards5 from '../sliders/cards5';
-import CardProduct from '../Card/cardProducts/CardProduct4'
+import CardProduct from '../Card/cardProducts/CardProduct4';
 import Gallery from '../gallery/gallery4';
-import imagen from './assests/producto4/240131-Jackery-Web-Aspectos SolarSaga100-1920x1080-01.jpg'
-import imagen2 from './assests/producto4/240131-Jackery-Web-Aspectos SolarSaga100-1920x1080-02.jpg'
-import CardIcons from '../Card/cardIcons/cardIcons1';
-import Calculator from '../calculator/calculator';
+import imagen from './assests/producto4/120624-Jackery-Web-Landing-Panel solar-I-1920x1080.jpg';
+import imagen2 from './assests/producto4/240131-Jackery-Web-Aspectos SolarSaga100-1920x1080-02.jpg';
 import Footer from '../Footer/Footer';
 import { Helmet } from 'react-helmet';
 
 const PRODUCTOS4 = () => {
 
-  const watts = 240;
-  const wattsLimit = 200;
 
   return (
 
@@ -27,12 +23,21 @@ const PRODUCTOS4 = () => {
           <CardProduct />
         </div>
         <div className='conteinerProducts1ImagenText'>
-          <h1 className='textProducts'>Jackery SolarSaga 100 - Panel solar portátil</h1>
+          <h1 className='textProducts'>Jackery SolarSaga 100 <br/> Panel solar portátil</h1>
           <h2 className='numberProducts'> $469.999</h2>
-          <p className='BodyProducts'>Alta eficiencia de conversión de hasta el 23%</p>
+          <p className='BodyProducts'>Este panel es compatible con las estaciones de energía Jackery 240/ 500/ 1000: juntos funcionan como generadores solares, el combo imbatible para todas tus necesidades energéticas.</p>
+          <ul className='specifications'>
+            <li>Indicador LED</li>
+            <li>Salidas: USB-A: 5V/ 2.4 A - USB-C: 5V/ 3A</li>
+            <li>CC Salida: 20.5 V / 5.4 A / 100 W</li>
+            <li>Protección contra la alimentación excesiva</li>
+            <li>Protección contra subidas de tensión</li>
+            <li>Protección contra cortocircuitos</li>
+          </ul>
+     {/*      <p className='BodyProducts'>Alta eficiencia de conversión de hasta el 23%</p>
           <p className='BodyProducts'>Plegable y portátil</p>
           <p className='BodyProducts'>Resistente al agua IP65</p>
-          <p className='BodyProducts'>2 puertos de salida: USB-C y USB-A</p>
+          <p className='BodyProducts'>2 puertos de salida: USB-C y USB-A</p> */}
           {/* <a href="/CONTACTO" className="myButtonProduct mb-3" target="_blank" rel="noopener noreferrer">
             CONSULTAR
           </a> */}
@@ -46,7 +51,7 @@ const PRODUCTOS4 = () => {
           <h1 className='textProducts'>Jackery SolarSaga 100</h1>
           <div className='borderContainer'>
             <p className='BodyProducts'>
-              Empieza el cambio. El SolarSaga 100W es un panel solar plegable, compacto y ligero, ideal para cargar dispositivos móviles en campings, excursiones a la naturaleza y entornos remotos. También sirve para cargar las estaciones Jackery Explorer, con lo que podrás almacenar la energía de manera rápida y limpia.
+              Empezá el cambio. El SolarSaga 100W es un panel solar plegable, compacto y ligero, ideal para cargar dispositivos móviles en campings, excursiones a la naturaleza y entornos remotos. También sirve para cargar las estaciones Jackery Explorer, con lo que podrás almacenar la energía de manera rápida y limpia.
             </p>
           </div>
         </div>
@@ -76,7 +81,7 @@ const PRODUCTOS4 = () => {
       </div>
       <div className='conteinerProducts4'>
         <div className='ProductDescription'>
-          <h1 className='textProducts'>Descubre más sobre energía solar</h1>
+          <h1 className='textProducts'>Descubrí más sobre energía solar</h1>
         </div>
         <div className='containerReview'>
           <div className="cardReview">
@@ -86,7 +91,7 @@ const PRODUCTOS4 = () => {
             <div className='card-body cardbodyReview'>
               <div className='card2'>
                 <h1 className='titleReview'>¿Cómo funcionan los paneles solares?</h1>
-                <p className='textReview'>Aquí encontrarás una introducción útil a la tecnología aplicada en energía solar. Descubre el mundo fascinante de la energía del futuro</p>
+                <p className='textReview'>Acá encontrarás una introducción útil a la tecnología aplicada en energía solar. Descubrí el mundo fascinante de la energía del futuro</p>
               </div>
             </div>
           </div>
@@ -96,7 +101,7 @@ const PRODUCTOS4 = () => {
             </div>
             <div className='card-body cardbodyReview'>
               <div className='card2'>
-                <h1 className='titleReview'>Súmate a la energía limpia</h1>
+                <h1 className='titleReview'>Sumate a la energía limpia</h1>
                 <p className='textReview'>Nuestro planeta reclama la transición energética. Empieza a formar parte del cambio con la energía limpia de Jackery</p>
               </div>
             </div>
@@ -104,14 +109,14 @@ const PRODUCTOS4 = () => {
         </div>
       </div>
       <div className='conteinerProducts5'>
-        <CardIcons />
+        {/* <CardIcons /> */}
       </div>
       <div className='conteinerProducts6'>
         <div className='ProductDescription'>
-          <h1 className='textProducts'>Simulador de Tiempo de Funcionamiento</h1>
+          {/* <h1 className='textProducts'>Simulador de Tiempo de Funcionamiento</h1>
           <p className='textReview'>Ingresa el voltaje de un dispositivo (que no exceda los 200 W) y descubre cuánto tiempo, aproximadamente, puedes usarlo de manera continua si lo alimentas con la Explorer 240.</p>
           <Calculator watts ={watts} wattsLimit = {wattsLimit}/>
-          <p>*Ten en cuenta que los resultados son aproximados</p>
+          <p>*Ten en cuenta que los resultados son aproximados</p> */}
         </div>
         <div id="novedades" className="cardSlider container mb-3">
           <p className="texSlider">NOVEDADES</p>
