@@ -35,7 +35,7 @@ const PRODUCTOS2 = () => {
           <p className='BodyProducts'>3 opciones de carga</p>
           <p className='BodyProducts'>3 modalidades de salida</p>
           <p className='BodyProducts'>Indicadores en pantalla de potencia de entrada/salida y batería restante</p> */}
-          <p className='BodyProducts'>La Jackery Explorer 240 es la fuente de suministro de energía ideal para tus aventuras al aire libre. Su diseño portátil y sus características de seguridad avanzada la convierten en la estación más elegida por los campistas.</p>
+          <p className='BodyProducts'>La Jackery Explorer 500 puede cargar electrodomésticos de baja a alta potencia por horas. Gracias a su tecnología BMS, su diseño portátil y su seguridad avanzada, es perfecta para tus aventuras al aire libre, usarlo como respaldo de energía ante los cortes de luz o trabajar off grid.</p>
           <ul className='specifications'>
             <li>Capacidad: 24Ah / 21.6 V (518.4Wh)</li>
             <li>Peso: 6.4Kg</li>

@@ -27,7 +27,7 @@ const PRODUCTOS8 = () => {
         </div>
         <div className='conteinerProducts1ImagenText'>
           <h1 className='textProducts'>Jackery Generador Solar 240</h1>
-          <p className='BodyProducts'>El Jackery Generador Solar 240 está equipado con la estación de energía Jackery Explorer 240 y el panel solar SolarSaga 100W. ¡El combo perfecto para generar tu propía energía en donde sea que estés!</p>
+          <p className='BodyProducts'>El Jackery Generador Solar 240 está equipado con la estación de energía Jackery Explorer 240 y el panel solar SolarSaga 100W. ¡El combo perfecto para generar tu propia energía en donde sea que estés!</p>
           <ul className='specifications'>
             <li>Capacidad: 16.8Ah / 14.4 V (241.9Wh)</li>
             <li>Peso: 3Kg</li>

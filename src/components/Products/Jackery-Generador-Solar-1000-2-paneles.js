@@ -28,7 +28,7 @@ const PRODUCTOS5 = () => {
     <div className='conteinerProducts1ImagenText'>
       <h1 className='textProducts'>Jackery Generador Solar 1000 - 2 paneles</h1>
       {/* <h2 className='numberProducts'> $1.939.990</h2> */}
-      <p className='BodyProducts'>Jackery Generador Solar 1000 - 2 paneles: Estación de Energía Portátil Jackery Explorer 1000 + 2 Paneles Solares SolarSaga 100W</p>
+      <p className='BodyProducts'>El Jackery Generador Solar 1000 combina la estación de energía Jackery Explorer 1000 y dos paneles solares SolarSaga 100W. Este generador súper potente es perfecto para cualquier situación: actividades outdoor, estilo de vida off grid o cortes de energía.</p>
       <p className='BodyProducts'>Batería de litio de 1002 W (46,4 Ah)</p>
       <p className='BodyProducts'>1000 W de energía (sobretensión de 2000 W) </p>
       <p className='BodyProducts'>12 capas de protección contra cortocircuitos</p>
@@ -67,7 +67,7 @@ const PRODUCTOS5 = () => {
     </div>
     </div>
     <div className='ProductDescription'> 
-    <p className='BodyProducts'>Jackery generador solar 1000 es una solución solar que combina la central eléctrica portátil Jackery Explorer 1000 con 2 paneles solares SolarSaga de 100W. Convierte la energía solar capturada por los paneles solares SolarSaga de 100 W en energía eléctrica y luego la almacena en la central eléctrica portátil Explorer 1000 para su uso posterior. Este generador solar es una fuente de energía confiable y limpia para casas rodantes, vehículos recreativos o como respaldo de emergencia si se corta la energía.</p>
+    <p className='BodyProducts'>Jackery Generador solar 1000 es una solución solar que combina la central eléctrica portátil Jackery Explorer 1000 con 2 paneles solares SolarSaga de 100W. Convierte la energía solar capturada por los paneles solares SolarSaga de 100 W en energía eléctrica y luego la almacena en la central eléctrica portátil Explorer 1000 para su uso posterior. Este generador solar es una fuente de energía confiable y limpia para casas rodantes, vehículos recreativos o como respaldo de emergencia si se corta la energía.</p>
     </div>
 
   </div>

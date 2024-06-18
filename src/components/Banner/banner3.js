@@ -10,12 +10,10 @@ const Banner3 = () => {
         <div className="stripe-1"></div>
         <div className="stripe-8">
          <div className='BannerTex'>
-                <h1 className='BannerTexTitle'>Corte de energía:</h1>
-                <h2 className='BannerTexSubTitle'>¿cuál es la razón por</h2>
-                <h2 className='BannerTexSubTitle'>la que se corta la luz?</h2>
-                <p className='BannerTexBody'>
+                <h1 className='BannerTexTitle'>Corte de energía: ¿cuál es la razón por la que se corta la luz?</h1>
+                <h2 className='BannerTexSubTitle'>
                 ¿Quieres saber cuál es el motivo por el cual se corta la energía? ¿Quieres saber cómo actuar frente a esta situación?
-                </p>
+                </h2>
             </div>
         </div>
         <div className="stripe-1"></div>

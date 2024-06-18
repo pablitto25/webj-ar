@@ -450,7 +450,7 @@ const LaGuiaDefinitiva = () => {
             Tipos de paneles solares por aspecto
           </p>
           <p>
-            A continuación se desglosaremos las diferencias de aspecto entre los distintos tipos de paneles solares.
+            A continuación desglosaremos las diferencias de aspecto entre los distintos tipos de paneles solares.
           </p>
           <ul>
             <li>

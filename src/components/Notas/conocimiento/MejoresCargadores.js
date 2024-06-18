@@ -80,7 +80,7 @@ const MejoresCargadores = () => {
         </div>
         <div className='NotaTexConteiner'>
           <p>
-            Considerá obtener un cargador solar portátil con una batería integrada para evitar llevar un panel solar y un banco de energía por separado. Estos dispositivos son fantásticos porque son autocontenidos y fáciles de usar. Despliega el panel para revelar las celdas solares y dejá que cargue la batería interna al sol. Una vez configurado, podés usarlo para alimentar tus dispositivos de la misma manera que usarías un banco de energía.
+            Considerá obtener un cargador solar portátil con una batería integrada para evitar llevar un panel solar y un banco de energía por separado. Estos dispositivos son fantásticos porque son autocontenidos y fáciles de usar. Desplegá el panel para revelar las celdas solares y dejá que cargue la batería interna al sol. Una vez configurado, podés usarlo para alimentar tus dispositivos de la misma manera que usarías un banco de energía.
           </p>
         </div>
         <div className='NotaImgConteiner'>
@@ -181,7 +181,7 @@ const MejoresCargadores = () => {
         </div>
         <div className='NotaTexConteiner'>
           <p>
-            Nada supera la agonía de que tu cargador solar sea dañado por unas gotas de agua mientras acampás. El daño por agua ha obligado frecuentemente a los turistas a posponer sus viajes de senderismo. Los generadores solares de Jackery priorizan la resistencia al agua, la seguridad y la confiabilidad; cuentan con una cubierta externa resistente a la intemperie hecha de ETFE que les brinda una apariencia robusta para mejorar su rendimiento y durabilidad, y nunca tengas que preocuparte algún eventual accidente.
+            Nada supera la agonía de que tu cargador solar sea dañado por unas gotas de agua mientras acampás. El daño por agua ha obligado frecuentemente a los turistas a posponer sus viajes de senderismo. Los generadores solares de Jackery priorizan la resistencia al agua, la seguridad y la confiabilidad; cuentan con una cubierta externa resistente a la intemperie hecha de ETFE que les brinda una apariencia robusta para mejorar su rendimiento y durabilidad, y nunca tengas que preocuparte por algún eventual accidente.
           </p>
         </div>
         <div className='NotaTitleConteiner'>

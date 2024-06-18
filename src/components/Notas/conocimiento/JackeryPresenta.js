@@ -4,18 +4,6 @@ import Footer from '../../Footer/Footer'
 import Banner5 from '../../Banner/banner5'
 import Cards5 from '../../sliders/cards5'
 import imagen2 from './assests/jackerypresenta/Imagen2.jpg'
-/* import imagen3 from './assests/jackerypresenta/Imagen3.webp'
-import imagen4 from './assests/jackerypresenta/Imagen4.webp'
-import imagen5 from './assests/jackerypresenta/Imagen5.webp'
-import imagen6 from './assests/jackerypresenta/Imagen6.webp'
-import imagen7 from './assests/jackerypresenta/Imagen7.webp'
-import imagen8 from './assests/jackerypresenta/Imagen8.webp'
-import imagen9 from './assests/jackerypresenta/Imagen9.webp'
-import imagen10 from './assests/jackerypresenta/Imagen10.webp'
-import imagen11 from './assests/jackerypresenta/Imagen11.webp'
-import imagen12 from './assests/jackerypresenta/Imagen12.webp'
-import imagen13 from './assests/jackerypresenta/Imagen13.webp'
-import imagen14 from './assests/jackerypresenta/Imagen14.webp' */
 
 
 

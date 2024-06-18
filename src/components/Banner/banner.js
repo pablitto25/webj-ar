@@ -11,11 +11,10 @@ const Banner = () => {
         <div className="stripe-8">
          <div className='BannerTex'>
                 <h1 className='BannerTexTitle'>Teclado solar:</h1>
-                <h2 className='BannerTexSubTitle'>¿puede el generador</h2>
-                <h2 className='BannerTexSubTitle'>solar alimentarlo?</h2>
-                <p className='BannerTexBody'>
-                ¿Querés saber qué generador solar te conviene comprar para tu teclado solar? No te pierdas nuestra recomendación de compra
-                </p>
+                <h2 className='BannerTexSubTitle'>¿Puede el generador solar alimentarlo?</h2>
+                <h2 className='BannerTexSubTitle'>
+                ¿Querés saber qué generador solar te conviene comprar para tu teclado solar? No te pierdas nuestra recomendación de compra?
+                </h2>
                 <a href="/BLOG/TecladoSolar" className="buttonBanner mb-3" rel="noopener noreferrer">
         EXPLORAR MÁS
           </a>

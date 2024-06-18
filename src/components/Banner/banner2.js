@@ -10,12 +10,10 @@ const Banner2 = () => {
         <div className="stripe-1"></div>
         <div className="stripe-8">
          <div className='BannerTex'>
-                <h1 className='BannerTexTitle'>Mejores cargadores</h1>
-                <h2 className='BannerTexSubTitle'>solares para</h2>
-                <h2 className='BannerTexSubTitle'>excursiones</h2>
-                <p className='BannerTexBody'>
+                <h1 className='BannerTexTitle'>Mejores cargadores solares para excursiones</h1>
+                <h2 className='BannerTexSubTitle'>
                 Conocé los beneficios de tener cargadores solares para tus aventuras
-                </p>
+                </h2>
                 {/* <a href="https://tu-pagina.com" className="buttonBanner mb-3" target="_blank" rel="noopener noreferrer">
         EXPLORAR MÁS
           </a> */}

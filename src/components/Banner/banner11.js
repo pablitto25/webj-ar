@@ -11,7 +11,7 @@ const Banner11 = () => {
         <div className="stripe-8">
          <div className='BannerTex'>
                 <h1 className='BannerTexTitle'>Jackery generador solar 240: produce tu propia energía al aire libre</h1>
-                <h2 className='BannerTexSubTitle'>Conoce el generador solar 240 de Jackery: el generador que necesitas para tu próxima escapada al aire libre.</h2>
+                <h2 className='BannerTexSubTitle'>Conoce el Generador solar 240 de Jackery: el generador que necesitás para tu próxima escapada al aire libre.</h2>
             </div>
         </div>
         <div className="stripe-1"></div>

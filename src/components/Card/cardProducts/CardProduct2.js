@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import './CardProduct1.css';
 
-import imagen1 from './assests/producto2/240130-Jackery-Web-Landing Explorer 500-1200x1200-01.jpg';
-import vista1 from './assests/producto2/240130-Jackery-Web-Landing Explorer 500-1200x1200-02.jpg';
-import vista2 from './assests/producto2/240130-Jackery-Web-Landing Explorer 500-1200x1200-03.jpg';
-import vista3 from './assests/producto2/240130-Jackery-Web-Landing Explorer 500-1200x1200-05.png';
+import imagen1 from './assests/producto2/240130-Jackery-Web-Landing Explorer 500-1200x1200-05.png';
+import vista1 from './assests/producto2/240130-Jackery-Web-Landing Explorer 500-1200x1200-01.jpg';
+import vista2 from './assests/producto2/240130-Jackery-Web-Landing Explorer 500-1200x1200-02.jpg';
+import vista3 from './assests/producto2/240130-Jackery-Web-Landing Explorer 500-1200x1200-03.jpg';
 import vista4 from './assests/producto2/240130-Jackery-Web-Landing Explorer 500-1200x1200-06.png';
 
 const CardProduct2 = () => {

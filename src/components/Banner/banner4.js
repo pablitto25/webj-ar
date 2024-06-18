@@ -10,12 +10,10 @@ const Banner4 = () => {
         <div className="stripe-1"></div>
         <div className="stripe-8">
          <div className='BannerTex'>
-                <h1 className='BannerTexTitle'>La guía definitiva</h1>
-                <h2 className='BannerTexSubTitle'>de tipos de paneles </h2>
-                <h2 className='BannerTexSubTitle'>solares</h2>
-                <p className='BannerTexBody'>
-                Conoce en detalle las características y el funcionamiento de los paneles solares
-                </p>
+                <h1 className='BannerTexTitle'>La guía definitiva de tipos de paneles solares:</h1>
+                <h2 className='BannerTexSubTitle'>
+                Conocé en detalle las características y el funcionamiento de los paneles solares
+                </h2>
                 {/* <a href="https://tu-pagina.com" className="buttonBanner mb-3" target="_blank" rel="noopener noreferrer">
         EXPLORAR MÁS
           </a> */}

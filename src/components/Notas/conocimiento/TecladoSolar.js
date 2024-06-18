@@ -63,7 +63,7 @@ const TecladoSolar = () => {
         </div>
         <div className='NotaTexConteiner'>
           <p>
-            ¿Alguna vez te has preguntaste hasta dónde ha llegado el avance tecnológico? ¿Quién hubiera imaginado que se desarrollaría un teclado inalámbrico alimentado por energía solar? Las organizaciones de tecnología de la información están considerando cambiar a teclados solares ya que no representan una carga financiera para sus operaciones.
+            ¿Alguna vez te preguntaste hasta dónde ha llegado el avance tecnológico? ¿Quién hubiera imaginado que se desarrollaría un teclado inalámbrico alimentado por energía solar? Las organizaciones de tecnología de la información están considerando cambiar a teclados solares ya que no representan una carga financiera para sus operaciones.
           </p>
           <p>
             Los teclados fotovoltaicos cargan sus baterías utilizando la luz solar. Esto cuestiona también la incapacidad de los teclados con cable para tener baterías recargables en lugar de requerir reemplazos frecuentes. Por lo general, los teclados solares deben cargarse una vez para durar un período prolongado de hasta tres meses. Además, contienen un interruptor de encendido/apagado que evita la pérdida de energía cuando no están en uso.
@@ -202,7 +202,7 @@ const TecladoSolar = () => {
         </div>
         <div className='NotaTexConteiner'>
           <p>
-            En promedio, los teclados consumen 0,5 vatios por hora desde una conexión USB de 100mA@5V. Ya sea iluminado o no, los teclados consumirán un máximo de 2,5 vatios por hora desde un puerto USB de 500mA@5V. Costaría 0,62 pesos chilenos por hora alimentar el dispositivo. No hay diferencia en el consumo de energía/electricidad entre un teclado USB convencional y los teclados solares o de luz.
+            En promedio, los teclados consumen 0,5 vatios por hora desde una conexión USB de 100mA@5V. Ya sea iluminado o no, los teclados consumirán un máximo de 2,5 vatios por hora desde un puerto USB de 500mA@5V. No hay diferencia en el consumo de energía/electricidad entre un teclado USB convencional y los teclados solares o de luz.
           </p>
           <p>
             El consumo de energía de un teclado que no se está utilizando es bajo, menos de 1W. Lo mismo no se puede decir de un teclado que se utiliza constantemente. Al escribir continuamente en un teclado, el consumo de energía puede variar entre 1,5W y 2,5W.

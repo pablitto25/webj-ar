@@ -11,7 +11,7 @@ const Banner10 = () => {
         <div className="stripe-8">
          <div className='BannerTex'>
                 <h1 className='BannerTexTitle'>Jackery, la solución multifuncional</h1>
-                <h2 className='BannerTexSubTitle'>Descubre todo lo que puedes hacer con una estación de energía Jackery. Anímate a inventar tu propio estilo de vida.</h2>
+                <h2 className='BannerTexSubTitle'>Descubrí todo lo que puedes hacer con una estación de energía Jackery. Animate a inventar tu propio estilo de vida.</h2>
             </div>
         </div>
         <div className="stripe-1"></div>

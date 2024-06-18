@@ -13,7 +13,7 @@ function cards() {
         <img src={imagen3} class="card-img-top" alt="..."/>
         <div class="card-body">
         <h5 class="card-title text-secondary">Jackery presenta el revolucionario generador solar Mars Bot en CES 2024:  una nueva era para los generadores solares</h5>
-        <p class="card-text">Conoce el avance que Jackery presentó con respecto a los generadores solares: se viene una nueva era</p>
+        <p class="card-text">Conocé el avance que Jackery presentó con respecto a los generadores solares: se viene una nueva era</p>
         <div class=" text-body-secondary">
         Fecha: 05/03/24
         </div>
