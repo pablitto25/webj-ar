@@ -16,6 +16,7 @@ import Cards10 from '../sliders/cards10';
 import Cards11 from '../sliders/cards11';
 import Cards12 from '../sliders/cards12';
 import Cards13 from '../sliders/cards13';
+import Cards14 from '../sliders/cards14';
 
 const Blog = () => {
   const [selectedCategory, setSelectedCategory] = useState('TODOS'); // Estado para la categoría seleccionada
@@ -41,6 +42,11 @@ const Blog = () => {
         <section className='conteinerCards'>
           {selectedCategory === 'TODOS' && (
             <>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">10 razones por las que tienes que comprarla</p>
+                <Cards14 />
+                <a href="/blog/jackery-explorer-500-10-razones-por-las-que-tienes-que-comprarla" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
               <div id="novedades" className="cardSlider container mb-3">
                 <p className="texSlider">¿Qué son los generadores solares?</p>
                 <Cards13 />
@@ -112,6 +118,11 @@ const Blog = () => {
 
           {selectedCategory === 'CONSEJOS DE COMPRA' && (
             <div>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">10 razones por las que tienes que comprarla</p>
+                <Cards14 />
+                <a href="/blog/jackery-explorer-500-10-razones-por-las-que-tienes-que-comprarla" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
               <div id="novedades" className="cardSlider container mb-3">
                 <p className="texSlider">Jackery generador solar 240: produce tu propia energía al aire libre</p>
                 <Cards11 />

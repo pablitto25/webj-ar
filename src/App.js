@@ -25,6 +25,7 @@ import JackeryLaSolucionMultifuncional from './components/Notas/conocimiento/Jac
 import JackerGeneradorSolar240 from './components/Notas/conocimiento/JackerGeneradorSolar240.js';
 import JackeryExpoMinera from './components/Notas/conocimiento/JackeryExpoMinera.js';
 import JackeryGeneradoresSolares from './components/Notas/conocimiento/JackeryGeneradoresSolares.js';
+import JackeryRazones from './components/Notas/conocimiento/JackeryRazones.js';
 
 
 
@@ -59,6 +60,7 @@ function App() {
           <Route path="/Blog/jackery-generador-solar-240-produce-tu-propia-energia-al-aire-libre" element={<JackerGeneradorSolar240/>} />
           <Route path="/Blog/expo-san-juan-minera-2024-jackery-estuvo-presente" element={<JackeryExpoMinera/>} />
           <Route path="/blog/que-son-los-generadores-solares" element={<JackeryGeneradoresSolares/>} />
+          <Route path="/blog/jackery-explorer-500-10-razones-por-las-que-tienes-que-comprarla" element={<JackeryRazones/>} />
           <Route path="/CONTACTO" element={<Contact/>} />
           </Routes>
       </BrowserRouter>
