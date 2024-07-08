@@ -1,17 +1,17 @@
 
 import React from 'react';
 import './banner.css';
-import banner from './assest/Jackery-explorer_500_5.jpg';
+import banner from './assest/jackery_explorer_300_dfdb7cad-d906-45bc-9b71-16b510b691e2.webp';
 
-const Banner14 = () => {
+const Banner15 = () => {
   return (
     <div className="banner-container">
       <div className="div1">
         <div className="stripe-1"></div>
         <div className="stripe-8">
          <div className='BannerTex'>
-                <h1 className='BannerTexTitle'>Jackery Explorer 500: 10 razones por las que tenés que comprarla</h1>
-                <h2 className='BannerTexSubTitle'>No te pierdas la oportunidad de conocer los beneficios de tener una estación de energía solar en tu rutina.</h2>
+                <h1 className='BannerTexTitle'>¿Qué son las estaciones de energía?</h1>
+                <h2 className='BannerTexSubTitle'>Entrá a la nota si querés conocer más sobre el funcionamiento de las estaciones de energía.</h2>
             </div>
         </div>
         <div className="stripe-1"></div>
@@ -29,5 +29,5 @@ const Banner14 = () => {
   );
 };
 
-export default Banner14;
+export default Banner15;
 
