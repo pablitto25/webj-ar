@@ -18,6 +18,7 @@ import Cards12 from '../sliders/cards12';
 import Cards13 from '../sliders/cards13';
 import Cards14 from '../sliders/cards14';
 import Cards15 from '../sliders/cards15';
+import Cards16 from '../sliders/cards16';
 
 const Blog = () => {
   const [selectedCategory, setSelectedCategory] = useState('TODOS'); // Estado para la categoría seleccionada
@@ -43,6 +44,11 @@ const Blog = () => {
         <section className='conteinerCards'>
           {selectedCategory === 'TODOS' && (
             <>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">5 lugares para hacer trekking a 2 horas de Córdoba Capital</p>
+                <Cards16 />
+                <a href="/blog/5-lugares-para-hacer-trekking-a-2-horas-de-cordoba-capital" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
               <div id="novedades" className="cardSlider container mb-3">
                 <p className="texSlider">¿Qué son las estaciones de energía?</p>
                 <Cards15 />
