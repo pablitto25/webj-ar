@@ -9,6 +9,7 @@ import imagen from './assests/imagen-news-home.webp'
 import CarouselHome from './carousel/carousel1.js';
 import Footer from '../Footer/Footer.js';
 import { Helmet } from 'react-helmet';
+import Distribuidores from '../Distribuidores/Distribuidores.js';
 
 
 const HOME = () => {
@@ -48,6 +49,9 @@ const HOME = () => {
           <div className='conteinerBody32'>
           <CarouselHome/>
           </div>
+        </div>
+        <div>
+          <Distribuidores/>
         </div>
       </div>
       <footer className='conteinerFooter'>
