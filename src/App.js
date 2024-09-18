@@ -28,6 +28,7 @@ import JackeryGeneradoresSolares from './components/Notas/conocimiento/JackeryGe
 import JackeryRazones from './components/Notas/conocimiento/JackeryRazones.js';
 import JackeryEstacionesDeEnergia from './components/Notas/conocimiento/JackeryEstacionesDeEnergia.js';
 import LugaresParaHacerTrekking from './components/Notas/conocimiento/LugaresParaHacerTrekking.js';
+import MejoraLaExperienciaClientes from './components/Notas/conocimiento/MejoraLaExperienciaClientes.js';
 
 
 
@@ -65,6 +66,7 @@ function App() {
           <Route path="/blog/jackery-explorer-500-10-razones-por-las-que-tenes-que-comprarla" element={<JackeryRazones/>} />
           <Route path="/blog/que-son-las-estaciones-de-energia" element={<JackeryEstacionesDeEnergia/>} />
           <Route path="/blog/5-lugares-para-hacer-trekking-a-2-horas-de-cordoba-capital" element={<LugaresParaHacerTrekking/>} />
+          <Route path="/blog/mejorar-experiencia-de-tus-clientes-como-guia-de-turismo" element={<MejoraLaExperienciaClientes/>} />
           <Route path="/CONTACTO" element={<Contact/>} />
           </Routes>
       </BrowserRouter>

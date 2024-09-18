@@ -13,11 +13,11 @@ const Distribuidores = () => {
                 <p className='titleDistri'>Nuestros distribuidores oficiales en el pais.</p>
             </div>
             <div className='containerDistri'>
-                <div className='NotaImgConteiner'>
-                    <Link to={'https://shipin.ar'} target='_blank'><img src={imagen1} alt='imagen' /></Link>
+                <div className='NotaImgConteinerDis'>
+                    <Link to={'https://shipin.ar'} target='_blank'><img src={imagen1} alt='imagen' className='image-feature-dis'/></Link>
                 </div>
-                <div className='NotaImgConteiner'>
-                <Link to={'https://www.mundogenerador.com/jackery'} target='_blank'><img src={imagen2} alt='imagen' /></Link>
+                <div className='NotaImgConteinerDis'>
+                <Link to={'https://www.mundogenerador.com/jackery'} target='_blank'><img src={imagen2} alt='imagen' className='image-feature-dis'/></Link>
                 </div>
             </div>
         </div>

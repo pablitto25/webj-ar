@@ -1,18 +1,3 @@
-@font-face {
-    font-family: 'Gilory Medium';
-    src: url('./fonts/Gilroy-Medium.ttf');
-}
-
-@font-face {
-    font-family: 'Gilory Bold';
-    src: url('./fonts/Gilroy-Bold.ttf');
-}
-
-.iconFooter{
-    margin-left: 10px;
-    width: 30px;
-    height: 30px;
-}
 
 .titleDistri{
     color: rgb(102, 102, 102);
@@ -26,137 +11,15 @@
     display: flex;
     flex-direction: column;
     justify-content: center; 
-    align-items: center; 
+    align-items: center;
+    
 }
 
-.NotaImgConteiner{
+.image-feature-dis{
     width: 250px;
 }
 
+
 .containerDistri{
     display: flex;
-}
-
-
-.footerSocial {
-    display: flex;
-    flex-direction: row;
-    align-items: center; 
-    color: white;
-}
-
-
-
-.footerLinks {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center; 
-    
-}
-.footerLinksText{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center; 
-}
-.footerLinksText1 {
-    text-decoration: none;
-    color: white;
-    margin: 20px;
-    
-}
-
-.Links {
-    color: white;
-    display: flex;
-    flex-direction: column;
-    align-items: center; 
-    text-align: center; 
-    padding: 20px;
-}
-
-.footerTex {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-     
-    margin: 20px;
-}
-
-.footerTex1 {
-    color: white;
-    font-size: 15px;
-    font-family: Gilory Medium;
-    border-top: 1px solid white;
-    border-bottom: 1px solid white;
-    margin: 10px;
-    padding: 10px;
-    
-}
-
-.footerTex2{
-    color: white;
-    padding-top: 40px;
-    font-size: 10px;
-    font-family: Gilory Medium;
-}
-
-.LogoFooter {
-    width: 20%;
-    margin-top: 5%;
-    margin-bottom: 5%;
-}
-
-@media (max-width: 800px) {
-    .footerSocial {
-        flex-direction: column;
-        text-align: center;
-    }
-
-    .footerSocialTitle {
-        margin-right: 0; 
-    }
-
-    .footerLinks {
-        flex-direction: column;
-    }
-
-    .Links {
-        padding: 10px;
-    }
-
-    .footerTex {
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
-    
-    .footerTex1,
-    .footerTex2 {
-        padding: 10px;
-        text-align: center; /* Añadido para centrar el texto */
-    }
-    .footerTex1 {
-        margin-left: 0;
-        border-top: 1px solid white;
-        border-bottom: none;
-    }
-    
-    /* Asegurar que los iconos y el último texto se mantengan dentro del footer */
-    .footerSocial,
-    .footerLinks {
-        flex-wrap: wrap;
-    }
-
-    .footerLinks,
-    .footerLinksText {
-        justify-content: center;
-        flex-wrap: wrap;
-    }
-
-    .footerLinksText1,
-    .iconLink {
-        margin: 10px;
-    }
 }
