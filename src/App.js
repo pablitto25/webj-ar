@@ -29,6 +29,8 @@ import JackeryRazones from './components/Notas/conocimiento/JackeryRazones.js';
 import JackeryEstacionesDeEnergia from './components/Notas/conocimiento/JackeryEstacionesDeEnergia.js';
 import LugaresParaHacerTrekking from './components/Notas/conocimiento/LugaresParaHacerTrekking.js';
 import MejoraLaExperienciaClientes from './components/Notas/conocimiento/MejoraLaExperienciaClientes.js';
+import ComoTrabajarSinConexion from './components/Notas/conocimiento/ComoTrabajarSinConexion.js';
+import ComoConstruirUnaCasita from './components/Notas/conocimiento/ComoConstruirUnaCasita.js';
 
 
 
@@ -67,6 +69,8 @@ function App() {
           <Route path="/blog/que-son-las-estaciones-de-energia" element={<JackeryEstacionesDeEnergia/>} />
           <Route path="/blog/5-lugares-para-hacer-trekking-a-2-horas-de-cordoba-capital" element={<LugaresParaHacerTrekking/>} />
           <Route path="/blog/mejorar-experiencia-de-tus-clientes-como-guia-de-turismo" element={<MejoraLaExperienciaClientes/>} />
+          <Route path="/blog/como-trabajar-sin-conexion-electrica-para-un-rodaje-en-exteriores" element={<ComoTrabajarSinConexion/>} />
+          <Route path="/blog/como-construir-una-casita-para-perros-de-manera-rapido-y-facil" element={<ComoConstruirUnaCasita/>} />
           <Route path="/CONTACTO" element={<Contact/>} />
           </Routes>
       </BrowserRouter>

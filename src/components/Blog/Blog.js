@@ -20,6 +20,8 @@ import Cards14 from '../sliders/cards14';
 import Cards15 from '../sliders/cards15';
 import Cards16 from '../sliders/cards16';
 import Cards17 from '../sliders/cards17';
+import Cards18 from '../sliders/cards18';
+import Cards19 from '../sliders/cards19';
 
 const Blog = () => {
   const [selectedCategory, setSelectedCategory] = useState('TODOS'); // Estado para la categoría seleccionada
@@ -45,6 +47,16 @@ const Blog = () => {
         <section className='conteinerCards'>
           {selectedCategory === 'TODOS' && (
             <>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">Cómo construir una casita para perros de manera rápida y fácil</p>
+                <Cards19/>
+                <a href="/blog/como-construir-una-casita-para-perros-de-manera-rapido-y-facil" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">Cómo trabajar sin conexión eléctrica para un rodaje en exteriores</p>
+                <Cards18 />
+                <a href="/blog/como-trabajar-sin-conexion-electrica-para-un-rodaje-en-exteriores" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
               <div id="novedades" className="cardSlider container mb-3">
                 <p className="texSlider">Mejorá la experiencia de tus clientes como guía de turismo</p>
                 <Cards17 />
