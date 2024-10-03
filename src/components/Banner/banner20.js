@@ -1,7 +1,7 @@
 
 import React from 'react';
 import './banner.css';
-import banner from './assest/mejora-la-experiencia-de-tus-clientes.jpg';
+import banner from './assest/Los5LugaresMasDesafiantes.jpg';
 
 const Banner17 = () => {
   return (
@@ -16,7 +16,7 @@ const Banner17 = () => {
         </div>
         <div className="stripe-1"></div>
       </div>
-      <div className="half-width">
+      <div className="half-width-second">
         <img src={banner} alt="Banner" className="banner-image fluid-img" />
       </div>
       <div className="div3">

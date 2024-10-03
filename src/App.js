@@ -31,6 +31,7 @@ import LugaresParaHacerTrekking from './components/Notas/conocimiento/LugaresPar
 import MejoraLaExperienciaClientes from './components/Notas/conocimiento/MejoraLaExperienciaClientes.js';
 import ComoTrabajarSinConexion from './components/Notas/conocimiento/ComoTrabajarSinConexion.js';
 import ComoConstruirUnaCasita from './components/Notas/conocimiento/ComoConstruirUnaCasita.js';
+import Los5LugaresMasDesafiantes from './components/Notas/conocimiento/Los5LugaresMasDesafiantes.js';
 
 
 
@@ -71,6 +72,7 @@ function App() {
           <Route path="/blog/mejorar-experiencia-de-tus-clientes-como-guia-de-turismo" element={<MejoraLaExperienciaClientes/>} />
           <Route path="/blog/como-trabajar-sin-conexion-electrica-para-un-rodaje-en-exteriores" element={<ComoTrabajarSinConexion/>} />
           <Route path="/blog/como-construir-una-casita-para-perros-de-manera-rapido-y-facil" element={<ComoConstruirUnaCasita/>} />
+          <Route path="/blog/los-5-lugares-mas-desafiantes-para-hacer-4x4-en-san-juan" element={<Los5LugaresMasDesafiantes/>} />
           <Route path="/CONTACTO" element={<Contact/>} />
           </Routes>
       </BrowserRouter>
