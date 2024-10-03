@@ -22,6 +22,7 @@ import Cards16 from '../sliders/cards16';
 import Cards17 from '../sliders/cards17';
 import Cards18 from '../sliders/cards18';
 import Cards19 from '../sliders/cards19';
+import Cards20 from '../sliders/cards20';
 
 const Blog = () => {
   const [selectedCategory, setSelectedCategory] = useState('TODOS'); // Estado para la categoría seleccionada
@@ -48,8 +49,13 @@ const Blog = () => {
           {selectedCategory === 'TODOS' && (
             <>
               <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">Los 5 lugares más desafiantes para hacer 4x4 en San Juan</p>
+                <Cards20 />
+                <a href="/blog/los-5-lugares-mas-desafiantes-para-hacer-4x4-en-san-juan" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
+              <div id="novedades" className="cardSlider container mb-3">
                 <p className="texSlider">Cómo construir una casita para perros de manera rápida y fácil</p>
-                <Cards19/>
+                <Cards19 />
                 <a href="/blog/como-construir-una-casita-para-perros-de-manera-rapido-y-facil" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
               </div>
               <div id="novedades" className="cardSlider container mb-3">
