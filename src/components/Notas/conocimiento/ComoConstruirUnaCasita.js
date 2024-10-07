@@ -3,6 +3,7 @@ import './conocimiento1.css'
 import Footer from '../../Footer/Footer'
 import Cards3 from '../../sliders/cards3'
 import Banner19 from '../../Banner/banner19'
+import image1 from '../conocimiento/assests/nota-de-blog-jackery-explorer-1000---2.jpg'
 import { Helmet } from 'react-helmet'
 
 const ComoConstruirUnaCasita = () => {
@@ -118,7 +119,9 @@ const ComoConstruirUnaCasita = () => {
                     <p>
                         <strong>Jackery, el aliado perfecto para tus construcciones</strong>
                     </p>
-                    {/* imagen pendiente */}
+                    <div className='NotaImgConteiner'>
+                        <img src={image1} alt='imagen' />
+                    </div>
 
                     <p>
                         Al momento de construir una casita de perro, te recomendamos que la hagas en tu patio o jardín para evitar el polvillo, manchas de pintura y suciedad en el interior de tu casa. Asimismo, te sugerimos que consigas una estación de energía portátil para tener energía suficiente para la construcción, sin necesidad de usar alargues o postergar tu plan por falta de electricidad.

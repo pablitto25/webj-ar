@@ -4,6 +4,7 @@ import Footer from '../../Footer/Footer'
 import Cards3 from '../../sliders/cards3'
 import Banner17 from '../../Banner/banner17'
 import image1 from '../conocimiento/assests/img-cuerpo-1.webp'
+import image2 from '../conocimiento/assests/mejora-la-experiencia-nota-de-blog-jackery-explorer-1000-arg.jpg'
 import { Helmet } from 'react-helmet'
 
 const MejoraLaExperienciaClientes = () => {
@@ -38,6 +39,10 @@ const MejoraLaExperienciaClientes = () => {
                     <p>
                         Para finalizar, te recomendamos que, si tenés que guiar un viaje de aventura más prolongado, incorpores en tu equipamiento el <strong>panel SolarSaga 100 W</strong>. Con este producto, podrás cargar a tu estación de energía, obteniendo así un generador solar. De esta manera, no tendrás que depender de ningún suministro eléctrico y conseguirás, directamente, la energía del sol para cargar la estación portátil: lo que te garantiza verdadera independencia energética en tu trabajo como guía de turismo.
                     </p>
+
+                    <div className='NotaImgConteiner'>
+                        <img src={image2} alt='imagen' />
+                    </div>
 
                     {/* fin de la nota */}
 

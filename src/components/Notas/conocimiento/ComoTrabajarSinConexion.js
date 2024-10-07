@@ -3,6 +3,7 @@ import './conocimiento1.css'
 import Footer from '../../Footer/Footer'
 import Cards3 from '../../sliders/cards3'
 import Banner18 from '../../Banner/banner18'
+import image1 from '../conocimiento/assests/nota-de-blog-2-jackery.jpg';
 import { Helmet } from 'react-helmet'
 
 const ComoTrabajarSinConexion = () => {
@@ -30,11 +31,10 @@ const ComoTrabajarSinConexion = () => {
                     <p>
                         Definitivamente, <strong>Jackery es el aliado perfecto para la producción de contenido</strong>. Para tu próxima producción, no te olvides de llevar tu Explorer 1000: te asegurarás una jornada de trabajo eficiente, segura y amigable con el medio ambiente.
                     </p>
-
-
+                    <div className='NotaImgConteiner'>
+                        <img src={image1} alt='imagen' />
+                    </div>
                     {/* fin de la nota */}
-
-
                 </div>
 
                 <div id="novedades" className="cardSlider container mb-3">
