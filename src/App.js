@@ -33,6 +33,7 @@ import ComoTrabajarSinConexion from './components/Notas/conocimiento/ComoTrabaja
 import ComoConstruirUnaCasita from './components/Notas/conocimiento/ComoConstruirUnaCasita.js';
 import Los5LugaresMasDesafiantes from './components/Notas/conocimiento/Los5LugaresMasDesafiantes.js';
 import QueHacerSiSeCortaLaLuz from './components/Notas/conocimiento/QueHacerSiSeCortaLaLuz.js';
+import LugaresIncreiblesParaHacerParacaidismo from './components/Notas/conocimiento/LugaresIncreiblesParaHacerParacaidismo.js';
 
 
 
@@ -75,6 +76,7 @@ function App() {
           <Route path="/blog/como-construir-una-casita-para-perros-de-manera-rapido-y-facil" element={<ComoConstruirUnaCasita/>} />
           <Route path="/blog/los-5-lugares-mas-desafiantes-para-hacer-4x4-en-san-juan" element={<Los5LugaresMasDesafiantes/>} />
           <Route path="/blog/que-hacer-si-se-corta-la-luz-y-necesitas-trabajar" element={<QueHacerSiSeCortaLaLuz/>} />
+          <Route path="/blog/5-lugares-increibles-para-hacer-paracaidismo" element={<LugaresIncreiblesParaHacerParacaidismo/>} />
           <Route path="/CONTACTO" element={<Contact/>} />
           </Routes>
       </BrowserRouter>

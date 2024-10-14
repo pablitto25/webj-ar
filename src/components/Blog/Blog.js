@@ -24,6 +24,7 @@ import Cards18 from '../sliders/cards18';
 import Cards19 from '../sliders/cards19';
 import Cards20 from '../sliders/cards20';
 import Cards21 from '../sliders/cards21';
+import Cards22 from '../sliders/cards22';
 
 const Blog = () => {
   const [selectedCategory, setSelectedCategory] = useState('TODOS'); // Estado para la categoría seleccionada
@@ -49,6 +50,11 @@ const Blog = () => {
         <section className='conteinerCards'>
           {selectedCategory === 'TODOS' && (
             <>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">5 lugares increíbles para hacer paracaidismo en Argentina</p>
+                <Cards22 />
+                <a href="/blog/5-lugares-increibles-para-hacer-paracaidismo" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
               <div id="novedades" className="cardSlider container mb-3">
                 <p className="texSlider">Qué hacer si se corta la luz y necesitás trabajar</p>
                 <Cards21 />
