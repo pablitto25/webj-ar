@@ -34,6 +34,7 @@ import ComoConstruirUnaCasita from './components/Notas/conocimiento/ComoConstrui
 import Los5LugaresMasDesafiantes from './components/Notas/conocimiento/Los5LugaresMasDesafiantes.js';
 import QueHacerSiSeCortaLaLuz from './components/Notas/conocimiento/QueHacerSiSeCortaLaLuz.js';
 import LugaresIncreiblesParaHacerParacaidismo from './components/Notas/conocimiento/LugaresIncreiblesParaHacerParacaidismo.js';
+import SalidaEscolar from './components/Notas/conocimiento/SalidaEscolar.js';
 
 
 
@@ -77,6 +78,7 @@ function App() {
           <Route path="/blog/los-5-lugares-mas-desafiantes-para-hacer-4x4-en-san-juan" element={<Los5LugaresMasDesafiantes/>} />
           <Route path="/blog/que-hacer-si-se-corta-la-luz-y-necesitas-trabajar" element={<QueHacerSiSeCortaLaLuz/>} />
           <Route path="/blog/5-lugares-increibles-para-hacer-paracaidismo" element={<LugaresIncreiblesParaHacerParacaidismo/>} />
+          <Route path="/blog/salida-escolar-como-la-energia-portatil-facilita-su-organizacion" element={<SalidaEscolar/>} />
           <Route path="/CONTACTO" element={<Contact/>} />
           </Routes>
       </BrowserRouter>

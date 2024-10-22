@@ -1,17 +1,17 @@
 
 import React from 'react';
 import './banner.css';
-import banner from './assest/paracaidismo.jpg';
+import banner from './assest/salida_escolar_2.png';
 
-const Banner22 = () => {
+const Banner23 = () => {
   return (
     <div className="banner-container">
       <div className="div1">
         <div className="stripe-1"></div>
         <div className="stripe-8">
           <div className='BannerTex'>
-            <h1 className='BannerTexTitle'>5 lugares increíbles para hacer paracaidismo en Argentina</h1>
-            <h2 className='BannerTexSubTitle'>¿Querés tener una aventura extrema en el aire? Te traemos los mejores lugares para hacer paracaidismo en Argentina.</h2>
+            <h1 className='BannerTexTitle'>Salida escolar: cómo la energía portátil facilita su organización</h1>
+            <h2 className='BannerTexSubTitle'>¿Tenés que planear una salida escolar al aire libre y no sabés cómo asegurarte de que no falte la energía? Entrá a la nota y enterate la solución que tenemos para vos.</h2>
           </div>
         </div>
         <div className="stripe-1"></div>
@@ -29,5 +29,5 @@ const Banner22 = () => {
   );
 };
 
-export default Banner22;
+export default Banner23;
 

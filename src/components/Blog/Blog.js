@@ -25,6 +25,7 @@ import Cards19 from '../sliders/cards19';
 import Cards20 from '../sliders/cards20';
 import Cards21 from '../sliders/cards21';
 import Cards22 from '../sliders/cards22';
+import Cards23 from '../sliders/cards23';
 
 const Blog = () => {
   const [selectedCategory, setSelectedCategory] = useState('TODOS'); // Estado para la categoría seleccionada
@@ -50,6 +51,11 @@ const Blog = () => {
         <section className='conteinerCards'>
           {selectedCategory === 'TODOS' && (
             <>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">5 lugares increíbles para hacer paracaidismo en Argentina</p>
+                <Cards23 />
+                <a href="/blog/salida-escolar-como-la-energia-portatil-facilita-su-organizacion" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
               <div id="novedades" className="cardSlider container mb-3">
                 <p className="texSlider">5 lugares increíbles para hacer paracaidismo en Argentina</p>
                 <Cards22 />
