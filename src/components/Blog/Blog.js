@@ -52,7 +52,7 @@ const Blog = () => {
           {selectedCategory === 'TODOS' && (
             <>
               <div id="novedades" className="cardSlider container mb-3">
-                <p className="texSlider">5 lugares increíbles para hacer paracaidismo en Argentina</p>
+                <p className="texSlider">Salida escolar: cómo la energía portátil facilita su organización</p>
                 <Cards23 />
                 <a href="/blog/salida-escolar-como-la-energia-portatil-facilita-su-organizacion" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
               </div>
