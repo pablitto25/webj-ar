@@ -36,6 +36,7 @@ import QueHacerSiSeCortaLaLuz from './components/Notas/conocimiento/QueHacerSiSe
 import LugaresIncreiblesParaHacerParacaidismo from './components/Notas/conocimiento/LugaresIncreiblesParaHacerParacaidismo.js';
 import SalidaEscolar from './components/Notas/conocimiento/SalidaEscolar.js';
 import Los5LugaresMasAsombrosos from './components/Notas/conocimiento/Los5LugaresMasAsombrosos.js';
+import GeneradoresSolaresVsGeneradoresTradicionales from './components/Notas/conocimiento/GeneradoresSolaresVsGeneradoresTradicionales.js';
 
 
 
@@ -81,6 +82,7 @@ function App() {
           <Route path="/blog/5-lugares-increibles-para-hacer-paracaidismo" element={<LugaresIncreiblesParaHacerParacaidismo/>} />
           <Route path="/blog/salida-escolar-como-la-energia-portatil-facilita-su-organizacion" element={<SalidaEscolar/>} />
           <Route path="/blog/los-5-lugares-mas-asombrosos-para-hacer-kayak-en-la-patagonia" element={<Los5LugaresMasAsombrosos/>} />
+          <Route path="/blog/generadores-solares-vs-generadores-tradicionales" element={<GeneradoresSolaresVsGeneradoresTradicionales/>} />
           <Route path="/CONTACTO" element={<Contact/>} />
           </Routes>
       </BrowserRouter>

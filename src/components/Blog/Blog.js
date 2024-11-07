@@ -27,6 +27,7 @@ import Cards21 from '../sliders/cards21';
 import Cards22 from '../sliders/cards22';
 import Cards23 from '../sliders/cards23';
 import Cards24 from '../sliders/cards24';
+import Cards25 from '../sliders/cards25';
 
 const Blog = () => {
   const [selectedCategory, setSelectedCategory] = useState('TODOS'); // Estado para la categoría seleccionada
@@ -52,6 +53,11 @@ const Blog = () => {
         <section className='conteinerCards'>
           {selectedCategory === 'TODOS' && (
             <>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">Generadores solares vs generadores tradicionales</p>
+                <Cards25 />
+                <a href="/blog/generadores-solares-vs-generadores-tradicionales" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
               <div id="novedades" className="cardSlider container mb-3">
                 <p className="texSlider">Los 5 lugares más asombrosos para hacer kayak en la Patagonia</p>
                 <Cards24 />
