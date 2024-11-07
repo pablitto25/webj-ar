@@ -20,13 +20,12 @@ const GeneradoresSolaresVsGeneradoresTradicionales = () => {
             </header>
             <section className='NotaConteiner' >
                 <div className='NotaTexConteiner'>
-                    {/* inicio nueva nota /PRODUCTOS/Jackery%20Generador%20Solar%20240*/}
                     <p>
-                        Hay diferentes tipos de generadores: los más conocidos son los generadores solares y aquellos que funcionan a partir de combustibles. Pero, ¿cuál es más seguro y eficiente para tener como respaldo de energía? ¿cuál conviene comprar para este verano?
+                        Hay diferentes tipos de generadores: los más conocidos son los generadores tradicionales pero también existen los novedosos generadores solares. Pero, ¿cuál es más seguro y eficiente para tener como respaldo de energía? ¿cuál conviene comprar para este verano?
                     </p>
                     <p>
-                        En principio, los <strong>generadores tradicionales</strong> son ruidosos, pesados, costosos, díficiles de configurar y provocan emisiones contaminantes que son perjudiciales para tu salud si lo usás en ambientes cerrados.<br />
-                        En cambio, los <strong>generadores solares</strong> son livianos, portátiles, silenciosos, fácil de usar, económicos, amigables con el medioambiente y seguros para tu salud porque no generan emisiones contaminantes.
+                        En principio, los <strong>generadores tradicionales</strong>, aunque tienen mayor potencia y te permiten alimentar dispositivos de gran consumo, son ruidosos, pesados, costosos, díficiles de configurar, ocupan mucho lugar y provocan emisiones contaminantes que son perjudiciales para tu salud si lo usás en ambientes cerrados.<br/>
+                        En cambio, los <strong>generadores solares</strong> son livianos, portátiles, silenciosos, fácil de usar, económicos, amigables con el medioambiente y seguros para tu salud porque no generan emisiones contaminantes. Y lo mejor de todo es que ocupan poco espacio, lo que los hace perfectos para usarlo dentro de departamentos.
                     </p>
                     <div className='NotaImgConteiner'>
                         <img src={image1} className='image-feature' alt='imagen' />
@@ -67,10 +66,10 @@ const GeneradoresSolaresVsGeneradoresTradicionales = () => {
                     <p>
                         En resumen, el generador solar 240 es el aliado energético que necesitás para hacerle frente a los cortes de luz. Con Jackery, seguí funcionando.
                     </p>
-                    
+
                     {/* fin de la nota */}
 
-                    
+
                 </div>
 
                 <div id="novedades" className="cardSlider container mb-3">
