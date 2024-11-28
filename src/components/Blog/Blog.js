@@ -29,6 +29,7 @@ import Cards23 from '../sliders/cards23';
 import Cards24 from '../sliders/cards24';
 import Cards25 from '../sliders/cards25';
 import Cards26 from '../sliders/cards26';
+import Cards27 from '../sliders/cards27';
 
 const Blog = () => {
   const [selectedCategory, setSelectedCategory] = useState('TODOS'); // Estado para la categoría seleccionada
@@ -54,6 +55,11 @@ const Blog = () => {
         <section className='conteinerCards'>
           {selectedCategory === 'TODOS' && (
             <>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">Cómo prepararse para los cortes de luz previstos para este verano</p>
+                <Cards27 />
+                <a href="/blog/como-prepararse-para-los-cortes-de-luz-previstos-para-este-verano" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
               <div id="novedades" className="cardSlider container mb-3">
                 <p className="texSlider">Cómo el uso de la energía portátil revoluciona el trabajo en la minería</p>
                 <Cards26 />
@@ -227,10 +233,17 @@ const Blog = () => {
           )}
 
           {selectedCategory === 'EMERGENCIA' && (
-            <div id="emergencia" className="cardSlider container mb-3">
-              <p className="texSlider">EMERGENCIA</p>
-              <Cards3 />
-              <a href="/Blog/corte-de-energia" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+            <div>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">Cómo prepararse para los cortes de luz previstos para este verano</p>
+                <Cards27 />
+                <a href="/blog/como-prepararse-para-los-cortes-de-luz-previstos-para-este-verano" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
+              <div id="emergencia" className="cardSlider container mb-3">
+                <p className="texSlider">EMERGENCIA</p>
+                <Cards3 />
+                <a href="/Blog/corte-de-energia" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
             </div>
           )}
 

@@ -38,6 +38,7 @@ import SalidaEscolar from './components/Notas/conocimiento/SalidaEscolar.js';
 import Los5LugaresMasAsombrosos from './components/Notas/conocimiento/Los5LugaresMasAsombrosos.js';
 import GeneradoresSolaresVsGeneradoresTradicionales from './components/Notas/conocimiento/GeneradoresSolaresVsGeneradoresTradicionales.js';
 import EnergiaPortatil from './components/Notas/conocimiento/EnergiaPortatil.js';
+import CortesDeLuz from './components/Notas/conocimiento/CortesDeLuz.js';
 
 
 
@@ -85,6 +86,7 @@ function App() {
           <Route path="/blog/los-5-lugares-mas-asombrosos-para-hacer-kayak-en-la-patagonia" element={<Los5LugaresMasAsombrosos/>} />
           <Route path="/blog/generadores-solares-vs-generadores-tradicionales" element={<GeneradoresSolaresVsGeneradoresTradicionales/>} />
           <Route path="/blog/como-el-uso-de-la-energia-portatil-revoluciona-el-trabajo-en-la-mina" element={<EnergiaPortatil/>} />
+          <Route path="/blog/como-prepararse-para-los-cortes-de-luz-previstos-para-este-verano" element={<CortesDeLuz/>} />
           <Route path="/CONTACTO" element={<Contact/>} />
           </Routes>
       </BrowserRouter>
