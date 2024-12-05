@@ -40,6 +40,7 @@ import GeneradoresSolaresVsGeneradoresTradicionales from './components/Notas/con
 import EnergiaPortatil from './components/Notas/conocimiento/EnergiaPortatil.js';
 import CortesDeLuz from './components/Notas/conocimiento/CortesDeLuz.js';
 import EnergiaPortatilParaScout from './components/Notas/conocimiento/EnergiaPortatilParaScout.js';
+import CorteDeLuzProlongado from './components/Notas/conocimiento/CorteDeLuzProlongado.js';
 
 
 
@@ -89,6 +90,7 @@ function App() {
           <Route path="/blog/como-el-uso-de-la-energia-portatil-revoluciona-el-trabajo-en-la-mina" element={<EnergiaPortatil/>} />
           <Route path="/blog/como-prepararse-para-los-cortes-de-luz-previstos-para-este-verano" element={<CortesDeLuz/>} />
           <Route path="/blog/como-la-energia-portatil-facilita-las-salidas-scout" element={<EnergiaPortatilParaScout/>} />
+          <Route path="/blog/como-prepararse-para-un-corte-de-luz-prolongado" element={<CorteDeLuzProlongado/>} />
           <Route path="/CONTACTO" element={<Contact/>} />
           </Routes>
       </BrowserRouter>
