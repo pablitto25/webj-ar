@@ -32,6 +32,7 @@ import Cards26 from '../sliders/cards26';
 import Cards27 from '../sliders/cards27';
 import Cards28 from '../sliders/cards28';
 import Cards29 from '../sliders/cards29';
+import Cards30 from '../sliders/cards30';
 
 const Blog = () => {
   const [selectedCategory, setSelectedCategory] = useState('TODOS'); // Estado para la categoría seleccionada
@@ -57,6 +58,11 @@ const Blog = () => {
         <section className='conteinerCards'>
           {selectedCategory === 'TODOS' && (
             <>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">Algunas aplicaciones de energía portátil en el agro</p>
+                <Cards30 />
+                <a href="/blog/algunas-aplicaciones-de-energia-portatil-en-el-agro" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
               <div id="novedades" className="cardSlider container mb-3">
                 <p className="texSlider">Cómo prepararse para un corte de luz prolongado</p>
                 <Cards29 />
