@@ -42,6 +42,8 @@ import CortesDeLuz from './components/Notas/conocimiento/CortesDeLuz.js';
 import EnergiaPortatilParaScout from './components/Notas/conocimiento/EnergiaPortatilParaScout.js';
 import CorteDeLuzProlongado from './components/Notas/conocimiento/CorteDeLuzProlongado.js';
 import EnergiaPortatilEnElAgro from './components/Notas/conocimiento/EnergiaPortatilEnElAgro.js';
+import NavidadInolvidable from './components/Notas/conocimiento/NavidadInolvidable.js';
+import TemperaturasExtremas from './components/Notas/conocimiento/TemperaturasExtremas.js';
 
 
 
@@ -93,6 +95,8 @@ function App() {
           <Route path="/blog/como-la-energia-portatil-facilita-las-salidas-scout" element={<EnergiaPortatilParaScout/>} />
           <Route path="/blog/como-prepararse-para-un-corte-de-luz-prolongado" element={<CorteDeLuzProlongado/>} />
           <Route path="/blog/algunas-aplicaciones-de-energia-portatil-en-el-agro" element={<EnergiaPortatilEnElAgro/>} />
+          <Route path="/blog/energia-portatil-para-una-navidad-inolvidable" element={<NavidadInolvidable/>} />
+          <Route path="/blog/corte-de-luz-que-hacer-ante-temperaturas-extremas" element={<TemperaturasExtremas/>} />
           <Route path="/CONTACTO" element={<Contact/>} />
           </Routes>
       </BrowserRouter>
