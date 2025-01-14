@@ -35,6 +35,7 @@ import Cards29 from '../sliders/cards29';
 import Cards30 from '../sliders/cards30';
 import Cards31 from '../sliders/cards31';
 import Cards32 from '../sliders/cards32';
+import Cards33 from '../sliders/cards33';
 
 const Blog = () => {
   const [selectedCategory, setSelectedCategory] = useState('TODOS'); // Estado para la categoría seleccionada
@@ -61,8 +62,13 @@ const Blog = () => {
           {selectedCategory === 'TODOS' && (
             <>
               <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">Energía portátil para unas vacaciones de verano sin límites</p>
+                <Cards33 />
+                <a href="/blog/energia-portatil-para-unas-vacaciones-de-verano-sin-limites" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
+              <div id="novedades" className="cardSlider container mb-3">
                 <p className="texSlider">Corte de luz: qué hacer ante temperaturas extremas</p>
-                <Cards32/>
+                <Cards32 />
                 <a href="/blog/corte-de-luz-que-hacer-ante-temperaturas-extremas" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
               </div>
               <div id="novedades" className="cardSlider container mb-3">
