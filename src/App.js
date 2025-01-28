@@ -45,6 +45,7 @@ import EnergiaPortatilEnElAgro from './components/Notas/conocimiento/EnergiaPort
 import NavidadInolvidable from './components/Notas/conocimiento/NavidadInolvidable.js';
 import TemperaturasExtremas from './components/Notas/conocimiento/TemperaturasExtremas.js';
 import VacacionesDeVerano from './components/Notas/conocimiento/VacacionesDeVerano.js';
+import EnergiaPortatilParaTuProyecto from './components/Notas/conocimiento/EnergiaPortatilParaTuProyecto.js';
 
 
 
@@ -99,6 +100,7 @@ function App() {
           <Route path="/blog/energia-portatil-para-una-navidad-inolvidable" element={<NavidadInolvidable/>} />
           <Route path="/blog/corte-de-luz-que-hacer-ante-temperaturas-extremas" element={<TemperaturasExtremas/>} />
           <Route path="/blog/energia-portatil-para-unas-vacaciones-de-verano-sin-limites" element={<VacacionesDeVerano/>} />
+          <Route path="/blog/energia-portatil-para-tu-proyecto" element={<EnergiaPortatilParaTuProyecto/>} />
           <Route path="/CONTACTO" element={<Contact/>} />
           </Routes>
       </BrowserRouter>

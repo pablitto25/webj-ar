@@ -36,6 +36,7 @@ import Cards30 from '../sliders/cards30';
 import Cards31 from '../sliders/cards31';
 import Cards32 from '../sliders/cards32';
 import Cards33 from '../sliders/cards33';
+import Cards34 from '../sliders/cards34';
 
 const Blog = () => {
   const [selectedCategory, setSelectedCategory] = useState('TODOS'); // Estado para la categoría seleccionada
@@ -61,6 +62,11 @@ const Blog = () => {
         <section className='conteinerCards'>
           {selectedCategory === 'TODOS' && (
             <>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">Energía portátil para tu proyecto</p>
+                <Cards34 />
+                <a href="/blog/energia-portatil-para-tu-proyecto" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</a>
+              </div>
               <div id="novedades" className="cardSlider container mb-3">
                 <p className="texSlider">Energía portátil para unas vacaciones de verano sin límites</p>
                 <Cards33 />
