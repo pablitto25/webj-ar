@@ -46,6 +46,8 @@ import NavidadInolvidable from './components/Notas/conocimiento/NavidadInolvidab
 import TemperaturasExtremas from './components/Notas/conocimiento/TemperaturasExtremas.js';
 import VacacionesDeVerano from './components/Notas/conocimiento/VacacionesDeVerano.js';
 import EnergiaPortatilParaTuProyecto from './components/Notas/conocimiento/EnergiaPortatilParaTuProyecto.js';
+import CortesDeLuzTuSolucion from './components/Notas/conocimiento/CortesDeLuzTuSolucion.js';
+import ScrollToTop from './hooks/ScrollToTop.js';
 
 
 
@@ -54,6 +56,7 @@ function App() {
     <div className="App">
     <BrowserRouter>
         <NavBar/>
+        <ScrollToTop/>
           <Routes>
           <Route path="/" element={<HOME/>} />
           <Route path="/HOME" element={<HOME/>} />
@@ -101,6 +104,7 @@ function App() {
           <Route path="/blog/corte-de-luz-que-hacer-ante-temperaturas-extremas" element={<TemperaturasExtremas/>} />
           <Route path="/blog/energia-portatil-para-unas-vacaciones-de-verano-sin-limites" element={<VacacionesDeVerano/>} />
           <Route path="/blog/energia-portatil-para-tu-proyecto" element={<EnergiaPortatilParaTuProyecto/>} />
+          <Route path="/blog/descubri-como-un-generador-solar-puede-ser-tu-solucion" element={<CortesDeLuzTuSolucion/>} />
           <Route path="/CONTACTO" element={<Contact/>} />
           </Routes>
       </BrowserRouter>

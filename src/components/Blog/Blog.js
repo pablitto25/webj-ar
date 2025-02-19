@@ -37,6 +37,8 @@ import Cards31 from '../sliders/cards31';
 import Cards32 from '../sliders/cards32';
 import Cards33 from '../sliders/cards33';
 import Cards34 from '../sliders/cards34';
+import Cards35 from '../sliders/cards35';
+import { Link } from 'react-router-dom';
 
 const Blog = () => {
   const [selectedCategory, setSelectedCategory] = useState('TODOS'); // Estado para la categoría seleccionada
@@ -62,6 +64,11 @@ const Blog = () => {
         <section className='conteinerCards'>
           {selectedCategory === 'TODOS' && (
             <>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">¿Cortes de luz? Descubrí cómo un generador solar puede ser tu solución</p>
+                <Cards35 />
+                <Link to="/blog/descubri-como-un-generador-solar-puede-ser-tu-solucion" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</Link>
+              </div>
               <div id="novedades" className="cardSlider container mb-3">
                 <p className="texSlider">Energía portátil para tu proyecto</p>
                 <Cards34 />
