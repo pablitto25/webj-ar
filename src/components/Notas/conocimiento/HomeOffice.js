@@ -26,7 +26,7 @@ const HomeOffice = () => {
                         ¿Tenés programado un viaje pero tenés que hacer home office por unos días?¿O, simplemente, te cansaste de hacer home en tu departamento y necesitás hacer una escapada a la naturaleza mientras seguís trabajando? Con la energía de <strong>Jackery</strong> es posible hacer home en cualquier lugar gracias a que sus estaciones de energía son livianas, portátiles, silenciosas y te permiten alimentar los dispositivos imprescindibles que necesitás para trabajar. ¡Con Jackery podés trabajar en cualquier lugar y momento sin interrupciones!
                     </p>
                     <p>
-                        Por eso, te recomendamos la estación de energía <Link to="https://www.amnesty.org/es/what-we-do/climate-change/energy-transition/" style={{ color: '#FF5000' }} target='_blank'>Explorer 240</Link>. Gracias a su capacidad de 241.9 Wh, podés alimentar, simultáneamente, diferentes tipos de dispositivos electrónicos que necesitás para hacer home:
+                        Por eso, te recomendamos la estación de energía <Link to="https://jackery.com.ar/PRODUCTOS/Jackery%20Explorer%20240" style={{ color: '#FF5000' }} target='_blank'>Explorer 240</Link>. Gracias a su capacidad de 241.9 Wh, podés alimentar, simultáneamente, diferentes tipos de dispositivos electrónicos que necesitás para hacer home:
                     </p>
                     <ul>
                         <li><strong>Notebook</strong>: el medio de trabajo imprescindible para hacer home. Con la Explorer 240, podrás usar la notebook Lenovo IdeaPad por 3 horas.</li>
