@@ -38,6 +38,7 @@ import Cards32 from '../sliders/cards32';
 import Cards33 from '../sliders/cards33';
 import Cards34 from '../sliders/cards34';
 import Cards35 from '../sliders/cards35';
+import Cards36 from '../sliders/cards36';
 import { Link } from 'react-router-dom';
 
 const Blog = () => {
@@ -64,6 +65,11 @@ const Blog = () => {
         <section className='conteinerCards'>
           {selectedCategory === 'TODOS' && (
             <>
+              <div id="novedades" className="cardSlider container mb-3">
+                <p className="texSlider">Home office: energía portátil para hacer home en cualquier lugar</p>
+                <Cards36 />
+                <Link to="/blog/home-office-energia-portatil-para-hacer-home-en-cualquier-lugar" className="myButton mb-3" rel="noopener noreferrer">EXPLORAR MÁS</Link>
+              </div>
               <div id="novedades" className="cardSlider container mb-3">
                 <p className="texSlider">¿Cortes de luz? Descubrí cómo un generador solar puede ser tu solución</p>
                 <Cards35 />

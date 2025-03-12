@@ -48,6 +48,7 @@ import VacacionesDeVerano from './components/Notas/conocimiento/VacacionesDeVera
 import EnergiaPortatilParaTuProyecto from './components/Notas/conocimiento/EnergiaPortatilParaTuProyecto.js';
 import CortesDeLuzTuSolucion from './components/Notas/conocimiento/CortesDeLuzTuSolucion.js';
 import ScrollToTop from './hooks/ScrollToTop.js';
+import HomeOffice from './components/Notas/conocimiento/HomeOffice.js';
 
 
 
@@ -105,6 +106,7 @@ function App() {
           <Route path="/blog/energia-portatil-para-unas-vacaciones-de-verano-sin-limites" element={<VacacionesDeVerano/>} />
           <Route path="/blog/energia-portatil-para-tu-proyecto" element={<EnergiaPortatilParaTuProyecto/>} />
           <Route path="/blog/descubri-como-un-generador-solar-puede-ser-tu-solucion" element={<CortesDeLuzTuSolucion/>} />
+          <Route path="/blog/home-office-energia-portatil-para-hacer-home-en-cualquier-lugar" element={<HomeOffice/>} />
           <Route path="/CONTACTO" element={<Contact/>} />
           </Routes>
       </BrowserRouter>
